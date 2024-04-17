@@ -3,23 +3,22 @@
 
 
 
-## Tanzanian Wells Project Recommendations 
+## Tanzanian Water Well Project 
 
-##### Purchasing airplanes from makers with low percentage of accidents resulting in fatalities and low percentage of totally destroyed aircraft will save money.
+##### Keep it simple, keep it local, keep it clean; --insert stat here--
 
 ## Overview
-This project aims to provide your company leadership with the best commercial and private airplane investment recommendations based on the risk of airplane destruction or fatality in an accident.
-The purchase price of airplanes can be exorbitant, but the costs of replacement and even more so, fatalities, can be astronomical.  
+This project analyzes the factors of successful wells in the Lake Victoria basin of Tanzania and provides key recommendations to initiate investment in further development of wells in the basin to ensure clean potable water for all residents.
 
 ## Business Understanding
-Your company is diversifying its portfolio to include airplanes, but needs to conduct analysis considering the risk to determine the best planes to purchase. 
+Your organization is looking to invest in the establishment of wells to provide clean drinking water for all Tanzanians beginning with the Lake Victoria basin. Our analysis will provide you with recommendations for well type, water source, and managment practices to ensoure the most successful well development model.
         
 ## Data Understanding and Analysis
 The dataset was taken from DrivenData, supplied by Taarifa and the Tanzanian Ministry of Water.
     
 ## Description of data
 #### Data shape
-The data used for this analysis contains 18017 rows and 21 columns. Columns: Event.Year, Make.Model, Fatal, and Commercial were all generated using the original NTSB dataset; the remaining columns came directly unaltered from the original data set. 
+The data used for this analysis contains ------ rows and ------ columns. Feature engineering was used to ----Columns: Event.Year, Make.Model, Fatal, and Commercial were all generated using the original NTSB dataset; the remaining columns came directly unaltered from the original data set. 
 #### Data manipulation
 Data were filtered to exclude: (a) amateur built planes, (b) events occurring outside the United States, (c) aircraft other than airplanes (including null values), (d) any event with missing make or model, and (e) any event prior to the year 2000. The top 200 makes were printed out, reviewed for likeness, and combined as needed, e.g., Boeing company, BOEING, and Boeing were combined into one make. 
 #### Data limitations        
