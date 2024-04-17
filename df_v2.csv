@@ -48,14 +48,22 @@
 404,0,33.09165496,-2.99658524,Mwanza,Missungwi,0,True,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
 405,0,32.65185323,-3.84954464,Shinyanga,Kahama,0,True,handpump,commercial,unknown,good,insufficient,groundwater,hand pump,functional
 406,0,33.64477524,-2.8630691,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 413,0,30.95668868,-2.7845813,Kagera,Biharamulo,0,True,gravity,user-group,never pay,good,seasonal,surface,communal standpipe,functional
+=======
+413,0,30.95668868,-2.7845812999999997,Kagera,Biharamulo,0,True,gravity,user-group,never pay,good,seasonal,surface,communal standpipe,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 416,0,32.50846356,-2.54770471,Mwanza,Sengerema,0,True,motorpump,user-group,pay monthly,good,enough,surface,communal standpipe,functional
 427,0,31.82735182,-1.21231446,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
 433,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,pay when scheme fails,good,enough,groundwater,hand pump,functional
 439,0,31.61498498,-1.2126409,Kagera,Misenyi,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 447,0,33.52797453,-2.82067589,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 462,0,31.52611967,-1.63276881,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,functional
+<<<<<<< HEAD
 474,0,30.7575028,-2.54204907,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+=======
+474,0,30.757502799999997,-2.54204907,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 481,0,32.88151654,-3.27751494,Shinyanga,Shinyanga Rural,0,True,handpump,user-group,never pay,salty,insufficient,groundwater,hand pump,functional
 502,0,33.447801500000004,-3.24751324,Shinyanga,Maswa,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 506,1243,33.98362709,-1.48524922,Mara,Rorya,500,False,submersible,user-group,never pay,good,enough,surface,communal standpipe,non functional
@@ -162,7 +170,11 @@
 1250,0,0.0,-2e-08,Mwanza,Geita,0,True,other,user-group,never pay,good,insufficient,surface,communal standpipe,functional
 1252,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,salty,insufficient,groundwater,hand pump,non functional
 1255,0,33.52877101,-3.23259007,Shinyanga,Maswa,0,False,handpump,user-group,never pay,unknown,seasonal,groundwater,hand pump,functional
+<<<<<<< HEAD
 1256,0,30.7788824,-2.41392966,Kagera,Ngara,0,False,gravity,user-group,pay monthly,good,insufficient,groundwater,communal standpipe,non functional
+=======
+1256,0,30.778882399999997,-2.41392966,Kagera,Ngara,0,False,gravity,user-group,pay monthly,good,insufficient,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 1279,0,31.6157464,-1.61934485,Kagera,Muleba,0,True,submersible,user-group,pay per bucket,good,enough,groundwater,communal standpipe,functional
 1291,1340,34.04296148,-2.95442908,Shinyanga,Bariadi,250,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 1294,1152,33.27619067,-2.09258685,Mara,Bunda,500,False,other,user-group,never pay,salty,insufficient,groundwater,hand pump,non functional
@@ -271,7 +283,11 @@
 2159,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
 2161,0,32.82642432,-2.53226616,Mwanza,Sengerema,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 2163,1393,33.96002716,-1.67356613,Mara,Musoma Rural,269,True,gravity,parastatal,unknown,salty,insufficient,surface,communal standpipe,functional
+<<<<<<< HEAD
 2167,1192,33.09796888,-2.0882239,Mwanza,Ukerewe,1500,True,other,other,never pay,good,insufficient,surface,communal standpipe,non functional
+=======
+2167,1192,33.09796888,-2.0882238999999996,Mwanza,Ukerewe,1500,True,other,other,never pay,good,insufficient,surface,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 2179,1208,33.40163255,-2.11058082,Mara,Bunda,500,True,handpump,user-group,pay per bucket,good,enough,groundwater,hand pump,non functional
 2180,0,32.72209137,-2.55975905,Mwanza,Sengerema,0,True,handpump,user-group,never pay,salty,insufficient,groundwater,hand pump,functional
 2181,0,32.68988635,-2.56684434,Mwanza,Sengerema,0,True,handpump,user-group,never pay,salty,enough,groundwater,hand pump,non functional
@@ -283,7 +299,11 @@
 2232,0,30.99377622,-1.68948152,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 2239,1442,34.62617439,-1.71070825,Mara,Serengeti,600,True,handpump,user-group,unknown,good,insufficient,groundwater,hand pump,functional
 2245,0,32.47285595,-2.52085919,Mwanza,Sengerema,0,True,motorpump,user-group,unknown,good,enough,surface,communal standpipe,non functional
+<<<<<<< HEAD
 2261,0,34.08785194,-3.0740994,Shinyanga,Maswa,0,False,handpump,user-group,other,good,insufficient,groundwater,hand pump,functional
+=======
+2261,0,34.08785194,-3.0740993999999997,Shinyanga,Maswa,0,False,handpump,user-group,other,good,insufficient,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 2264,0,34.11971729,-3.08932334,Shinyanga,Maswa,0,False,handpump,user-group,other,good,enough,groundwater,hand pump,functional
 2271,0,31.53098872,-1.40196247,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
 2272,1502,33.98690752,-1.7222767,Mara,Musoma Rural,320,False,gravity,user-group,unknown,good,enough,surface,communal standpipe,non functional
@@ -389,7 +409,11 @@
 3024,0,33.41351075,-2.71150081,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 3027,0,33.29649771,-2.84996827,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 3031,1622,34.65764179,-1.83072424,Mara,Serengeti,1000,True,handpump,other,unknown,good,insufficient,groundwater,hand pump,non functional
+<<<<<<< HEAD
 3044,0,33.0284339,-3.73275198,Shinyanga,Shinyanga Rural,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+=======
+3044,0,33.028433899999996,-3.73275198,Shinyanga,Shinyanga Rural,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 3051,1551,34.66329367,-1.90473489,Mara,Serengeti,500,True,handpump,user-group,unknown,good,enough,groundwater,hand pump,non functional
 3070,0,31.14324055,-1.82177069,Kagera,Karagwe,0,True,gravity,user-group,pay annually,good,enough,groundwater,communal standpipe,functional
 3088,0,31.74645654,-1.46600733,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
@@ -421,7 +445,11 @@
 3317,0,30.94028238,-1.0289913,Kagera,Misenyi,0,True,submersible,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
 3320,0,33.51720928,-2.84320464,Mwanza,Kwimba,0,True,motorpump,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 3329,0,30.64319014,-1.20772042,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
+<<<<<<< HEAD
 3335,0,31.459034000000006,-1.19457304,Kagera,Misenyi,0,True,handpump,user-group,pay monthly,good,insufficient,groundwater,hand pump,functional
+=======
+3335,0,31.459034000000003,-1.19457304,Kagera,Misenyi,0,True,handpump,user-group,pay monthly,good,insufficient,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 3344,0,0.0,-2e-08,Mwanza,Geita,0,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,functional
 3347,0,31.79530944,-1.28111097,Kagera,Misenyi,0,True,handpump,user-group,pay monthly,good,insufficient,groundwater,hand pump,functional
 3353,1183,33.11195551,-2.12593169,Mwanza,Ukerewe,1,True,other,unknown,unknown,unknown,unknown,unknown,hand pump,non functional
@@ -500,9 +528,15 @@
 3922,0,30.86370932,-1.41747093,Kagera,Karagwe,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 3942,0,33.22900063,-2.74236706,Mwanza,Kwimba,0,True,motorpump,user-group,pay per bucket,good,enough,groundwater,communal standpipe,functional
 3958,0,33.02860668,-3.72464625,Shinyanga,Shinyanga Rural,0,True,handpump,parastatal,never pay,good,seasonal,surface,hand pump,non functional
+<<<<<<< HEAD
 3960,0,31.766229600000006,-2.36161858,Kagera,Chato,0,True,handpump,user-group,pay monthly,salty,enough,groundwater,hand pump,functional
 3966,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,pay when scheme fails,salty,insufficient,groundwater,hand pump,functional
 3968,0,30.841543100000006,-2.51442056,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+=======
+3960,0,31.766229600000003,-2.36161858,Kagera,Chato,0,True,handpump,user-group,pay monthly,salty,enough,groundwater,hand pump,functional
+3966,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,pay when scheme fails,salty,insufficient,groundwater,hand pump,functional
+3968,0,30.841543100000003,-2.51442056,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 3978,0,30.98096015,-1.67531199,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
 3981,0,31.746448600000004,-1.49327066,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
 3985,1189,33.96701836,-1.42239949,Mara,Rorya,450,False,submersible,user-group,never pay,good,enough,surface,communal standpipe,non functional
@@ -516,7 +550,11 @@
 4047,0,30.68411892,-2.54690608,Kagera,Ngara,0,False,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
 4052,0,31.29599994,-2.58645398,Kagera,Biharamulo,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
 4061,1437,34.05698889999999,-1.92021818,Mara,Bunda,250,False,handpump,user-group,pay when scheme fails,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 4065,0,31.5856444,-1.43554372,Kagera,Bukoba Rural,0,True,handpump,user-group,pay monthly,good,enough,groundwater,hand pump,functional
+=======
+4065,0,31.585644399999996,-1.43554372,Kagera,Bukoba Rural,0,True,handpump,user-group,pay monthly,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 4076,0,31.44869396,-1.17958953,Kagera,Misenyi,0,True,handpump,user-group,never pay,salty,insufficient,groundwater,hand pump,non functional
 4094,1175,33.58926445,-1.94704018,Mara,Musoma Rural,680,False,gravity,parastatal,unknown,good,insufficient,surface,communal standpipe,functional
 4112,0,31.15186367,-1.70566239,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
@@ -558,7 +596,11 @@
 4469,1232,34.5472098,-1.4812045,Mara,Tarime,800,True,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
 4489,0,31.61133955,-1.75097531,Kagera,Muleba,0,True,submersible,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 4495,0,30.97800684,-1.7623388,Kagera,Karagwe,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 4498,0,32.9657849,-2.44139605,Mwanza,Magu,0,True,handpump,user-group,pay when scheme fails,good,insufficient,groundwater,hand pump,functional
+=======
+4498,0,32.965784899999996,-2.44139605,Mwanza,Magu,0,True,handpump,user-group,pay when scheme fails,good,insufficient,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 4501,0,31.60514662,-1.39132228,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
 4513,0,30.54133761,-2.44693895,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
 4516,1252,34.21362775,-1.31561421,Mara,Rorya,300,False,handpump,commercial,pay per bucket,salty,seasonal,groundwater,hand pump,functional
@@ -577,7 +619,11 @@
 4631,0,31.53922605,-1.67449837,Kagera,Muleba,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 4635,1207,34.00481261,-2.03722862,Mara,Bunda,400,True,gravity,user-group,unknown,unknown,unknown,groundwater,communal standpipe,non functional
 4636,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 4638,1215,33.0054311,-2.08547816,Mwanza,Ukerewe,500,True,other,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+=======
+4638,1215,33.005431099999996,-2.08547816,Mwanza,Ukerewe,500,True,other,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 4647,0,31.44566792,-1.51451964,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,functional
 4657,0,31.4171645,-1.88898842,Kagera,Muleba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 4658,0,33.06416558,-2.46124747,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
@@ -600,7 +646,11 @@
 4766,0,32.87781027,-2.61264389,Mwanza,Ilemela,0,True,motorpump,user-group,pay per bucket,good,enough,surface,communal standpipe,functional
 4768,0,0.0,-2e-08,Mwanza,Geita,0,True,gravity,user-group,unknown,unknown,dry,surface,communal standpipe,non functional
 4773,0,33.12355432,-2.56879122,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 4790,0,31.49780123,-2.04931,Kagera,Muleba,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
+=======
+4790,0,31.49780123,-2.0493099999999997,Kagera,Muleba,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 4794,0,33.04266426,-2.49822022,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 4801,0,0.0,-2e-08,Mwanza,Geita,0,True,submersible,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
 4813,0,33.07810642,-2.38964257,Mwanza,Missungwi,0,True,handpump,user-group,pay monthly,good,insufficient,groundwater,hand pump,functional
@@ -640,7 +690,11 @@
 5039,0,33.6067398,-2.85111469,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 5040,0,31.59708347,-1.51274334,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,enough,surface,communal standpipe,functional
 5048,0,33.60620788,-3.21898374,Shinyanga,Maswa,0,False,gravity,user-group,pay per bucket,good,enough,groundwater,communal standpipe,non functional
+<<<<<<< HEAD
 5066,0,33.6605709,-2.99168696,Shinyanga,Maswa,0,False,handpump,user-group,pay when scheme fails,good,enough,groundwater,hand pump,functional
+=======
+5066,0,33.660570899999996,-2.99168696,Shinyanga,Maswa,0,False,handpump,user-group,pay when scheme fails,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 5070,0,30.5435088,-2.74227735,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 5078,0,31.5240077,-1.35975844,Kagera,Bukoba Rural,0,True,handpump,user-group,never pay,salty,enough,groundwater,hand pump,non functional
 5080,0,30.69917592,-1.26277268,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
@@ -649,7 +703,11 @@
 5097,1178,32.87035442,-2.01140694,Mwanza,Ukerewe,250,True,handpump,user-group,pay monthly,good,insufficient,groundwater,hand pump,functional
 5101,1243,34.18398493,-1.37911338,Mara,Rorya,480,False,submersible,user-group,unknown,salty,enough,groundwater,communal standpipe,functional
 5102,1180,33.44993303,-2.06457919,Mara,Bunda,600,True,handpump,user-group,pay monthly,salty,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 5108,0,31.17697602,-1.8132524,Kagera,Karagwe,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+=======
+5108,0,31.17697602,-1.8132523999999997,Kagera,Karagwe,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 5115,0,31.73253354,-2.43633052,Kagera,Chato,0,True,handpump,user-group,pay monthly,good,enough,groundwater,hand pump,functional
 5136,0,0.0,-2e-08,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 5151,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,pay when scheme fails,good,enough,groundwater,hand pump,non functional
@@ -691,7 +749,11 @@
 5442,0,31.16091018,-1.39900394,Kagera,Karagwe,0,True,gravity,other,pay annually,good,enough,surface,communal standpipe,functional
 5456,1257,34.40699099,-2.12425821,Mara,Serengeti,50,False,submersible,commercial,never pay,salty,enough,groundwater,communal standpipe,functional
 5461,1216,33.50369736,-2.1270344,Mara,Bunda,250,True,gravity,user-group,pay per bucket,good,enough,surface,communal standpipe,non functional
+<<<<<<< HEAD
 5478,0,32.35744841,-2.5096232999999994,Mwanza,Sengerema,0,True,motorpump,user-group,never pay,good,enough,surface,communal standpipe,non functional
+=======
+5478,0,32.35744841,-2.509623299999999,Mwanza,Sengerema,0,True,motorpump,user-group,never pay,good,enough,surface,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 5481,0,31.53414737,-1.44264328,Kagera,Bukoba Rural,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 5486,1151,33.45087424,-2.14920489,Mara,Bunda,500,True,gravity,user-group,pay per bucket,good,enough,surface,communal standpipe,non functional
 5495,0,32.81111099,-2.56765735,Mwanza,Sengerema,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -724,7 +786,11 @@
 5686,0,31.75667524,-1.29957248,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,unknown,dry,surface,communal standpipe,non functional
 5687,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,salty,enough,groundwater,hand pump,functional
 5692,0,30.64564149,-1.29305462,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
+<<<<<<< HEAD
 5693,0,33.05463466,-2.5571863,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
+=======
+5693,0,33.05463466,-2.5571862999999997,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 5704,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,other,salty,enough,groundwater,hand pump,functional
 5708,0,33.13406603,-3.54681691,Shinyanga,Shinyanga Rural,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 5710,0,0.0,-2e-08,Mwanza,Magu,0,True,gravity,other,never pay,good,insufficient,surface,communal standpipe,functional
@@ -791,7 +857,11 @@
 6150,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,salty,enough,groundwater,hand pump,functional
 6152,0,31.43798151,-1.18978641,Kagera,Misenyi,0,True,handpump,user-group,never pay,salty,insufficient,groundwater,hand pump,functional
 6156,0,33.43891287,-2.96704133,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 6166,0,31.408317800000006,-2.70586375,Kagera,Biharamulo,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
+=======
+6166,0,31.408317800000003,-2.70586375,Kagera,Biharamulo,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 6167,0,33.61672051,-2.72403985,Mwanza,Kwimba,0,True,gravity,other,never pay,good,insufficient,surface,communal standpipe,non functional
 6170,0,33.34952352,-2.9093651,Mwanza,Ilemela,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 6173,0,33.59104733,-3.13518025,Shinyanga,Maswa,0,False,gravity,user-group,never pay,good,seasonal,surface,communal standpipe,non functional
@@ -823,7 +893,11 @@
 6369,0,30.53704488,-2.52198585,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 6374,0,0.0,-2e-08,Mwanza,Geita,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 6377,0,31.17073719,-1.51399667,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
+<<<<<<< HEAD
 6381,1226,32.9586609,-2.0657119,Mwanza,Ukerewe,400,True,other,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+=======
+6381,1226,32.9586609,-2.0657118999999997,Mwanza,Ukerewe,400,True,other,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 6398,0,33.0377375,-2.64522099,Mwanza,Missungwi,0,True,handpump,user-group,pay annually,salty,enough,groundwater,hand pump,functional
 6404,1256,33.6977341,-1.87228645,Mara,Musoma Rural,350,True,handpump,user-group,unknown,salty,enough,groundwater,hand pump,non functional
 6411,0,30.52060425,-2.86322466,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -854,7 +928,11 @@
 6601,1187,32.94699186,-1.97111401,Mwanza,Ukerewe,800,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 6611,0,0.0,-2e-08,Mwanza,Magu,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
 6627,0,32.35688673,-2.50547298,Mwanza,Sengerema,0,True,motorpump,user-group,never pay,good,enough,surface,communal standpipe,non functional
+<<<<<<< HEAD
 6628,0,31.648555100000006,-1.24950168,Kagera,Misenyi,0,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,functional
+=======
+6628,0,31.648555100000003,-1.24950168,Kagera,Misenyi,0,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 6652,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 6671,1179,33.46330035,-2.07466231,Mara,Bunda,250,False,gravity,user-group,never pay,good,enough,surface,communal standpipe,non functional
 6672,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,colored,enough,groundwater,hand pump,non functional
@@ -889,7 +967,11 @@
 6898,1281,33.73073906,-1.90390176,Mara,Musoma Rural,250,True,handpump,user-group,unknown,salty,enough,groundwater,hand pump,non functional
 6905,0,34.20324415,-2.98471189,Shinyanga,Meatu,0,False,handpump,user-group,pay when scheme fails,good,enough,groundwater,hand pump,functional
 6908,0,0.0,-2e-08,Mwanza,Geita,0,True,submersible,user-group,unknown,unknown,dry,surface,communal standpipe,non functional
+<<<<<<< HEAD
 6909,0,31.5805747,-1.41095064,Kagera,Bukoba Rural,0,True,handpump,user-group,pay annually,good,insufficient,groundwater,hand pump,functional
+=======
+6909,0,31.580574699999996,-1.41095064,Kagera,Bukoba Rural,0,True,handpump,user-group,pay annually,good,insufficient,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 6911,0,31.49768291,-1.71453589,Kagera,Muleba,0,True,submersible,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 6920,0,0.0,-2e-08,Mwanza,Magu,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
 6922,0,30.94579461,-1.22118621,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
@@ -913,7 +995,11 @@
 7069,0,31.17138145,-1.53169879,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
 7072,0,34.37165052,-2.96257291,Shinyanga,Meatu,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 7082,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,other,salty,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 7084,0,31.446499600000006,-2.6473519,Kagera,Chato,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+=======
+7084,0,31.446499600000003,-2.6473519,Kagera,Chato,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 7087,0,31.17123772,-1.52595824,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
 7094,1364,34.00058246,-1.80356737,Mara,Musoma Rural,320,True,gravity,user-group,unknown,good,enough,surface,communal standpipe,non functional
 7111,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
@@ -962,7 +1048,11 @@
 7401,1324,32.98484421,-2.06895007,Mwanza,Ukerewe,350,True,other,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
 7402,0,31.50133485,-1.64719242,Kagera,Bukoba Rural,0,False,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,functional
 7409,1141,33.08116573,-2.10092362,Mwanza,Ukerewe,480,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+<<<<<<< HEAD
 7421,1247,34.1904528,-1.699216,Mara,Musoma Rural,350,False,handpump,user-group,unknown,salty,enough,groundwater,hand pump,non functional
+=======
+7421,1247,34.190452799999996,-1.699216,Mara,Musoma Rural,350,False,handpump,user-group,unknown,salty,enough,groundwater,hand pump,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 7423,0,30.9499928,-1.24787061,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
 7427,1235,33.85742779,-1.99901701,Mara,Bunda,1237,False,gravity,parastatal,unknown,good,seasonal,surface,communal standpipe,functional
 7429,0,31.781338,-1.31301476,Kagera,Bukoba Urban,0,False,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
@@ -1009,12 +1099,20 @@
 7776,1279,34.29601896,-1.68919194,Mara,Serengeti,90,True,handpump,user-group,never pay,salty,enough,groundwater,hand pump,functional
 7789,0,32.94440609,-2.43452502,Mwanza,Magu,0,True,handpump,commercial,pay per bucket,good,enough,groundwater,hand pump,functional
 7792,1149,33.20795174,-2.10777454,Mara,Bunda,250,False,handpump,user-group,pay when scheme fails,salty,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 7798,1168,33.61934323,-2.0780954,Mara,Bunda,2700,True,gravity,user-group,pay monthly,good,enough,surface,communal standpipe,non functional
+=======
+7798,1168,33.61934323,-2.0780953999999996,Mara,Bunda,2700,True,gravity,user-group,pay monthly,good,enough,surface,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 7802,0,32.48262262,-2.59314894,Mwanza,Sengerema,0,True,motorpump,user-group,unknown,good,enough,surface,communal standpipe,non functional
 7834,0,32.84961556,-2.97876224,Mwanza,Missungwi,0,False,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 7838,0,31.72991426,-2.37427364,Kagera,Chato,0,True,handpump,user-group,pay monthly,good,enough,groundwater,hand pump,functional
 7844,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,salty,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 7854,0,31.555283000000006,-1.5601089,Kagera,Bukoba Rural,0,True,gravity,user-group,pay monthly,good,enough,surface,communal standpipe,functional
+=======
+7854,0,31.555283000000003,-1.5601089,Kagera,Bukoba Rural,0,True,gravity,user-group,pay monthly,good,enough,surface,communal standpipe,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 7855,0,33.66121396,-2.98027633,Shinyanga,Maswa,0,False,handpump,user-group,pay when scheme fails,good,enough,groundwater,hand pump,functional
 7874,0,31.39790747,-1.0914003,Kagera,Misenyi,0,True,handpump,user-group,pay monthly,good,insufficient,groundwater,hand pump,functional
 7886,0,30.65547434,-2.90606432,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -1103,7 +1201,11 @@
 8388,1148,33.22951631,-2.07919326,Mara,Bunda,400,False,handpump,user-group,pay when scheme fails,salty,enough,groundwater,hand pump,functional
 8391,0,31.8532727,-1.1471834,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
 8403,0,33.52359266,-2.8047258,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+<<<<<<< HEAD
 8405,0,31.1211643,-1.75069993,Kagera,Karagwe,0,True,gravity,user-group,pay annually,good,enough,groundwater,communal standpipe,functional
+=======
+8405,0,31.121164299999997,-1.75069993,Kagera,Karagwe,0,True,gravity,user-group,pay annually,good,enough,groundwater,communal standpipe,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 8409,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
 8425,0,31.54467149,-1.56638703,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,enough,surface,communal standpipe,non functional
 8426,0,0.0,-2e-08,Mwanza,Geita,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
@@ -1150,7 +1252,11 @@
 8705,1427,34.02893091,-1.90088445,Mara,Bunda,400,True,gravity,parastatal,pay per bucket,good,enough,groundwater,communal standpipe,non functional
 8709,0,30.80840164,-2.84263647,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 8711,0,0.0,-2e-08,Mwanza,Geita,0,True,gravity,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 8716,0,32.91615748,-2.6603878,Mwanza,Missungwi,0,True,submersible,commercial,never pay,good,enough,surface,communal standpipe,non functional
+=======
+8716,0,32.91615748,-2.6603877999999996,Mwanza,Missungwi,0,True,submersible,commercial,never pay,good,enough,surface,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 8723,0,31.80850941,-1.28918542,Kagera,Bukoba Urban,0,False,gravity,user-group,never pay,good,enough,surface,communal standpipe,functional
 8724,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,salty,enough,groundwater,hand pump,functional
 8727,0,31.74377419,-1.49163653,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
@@ -1281,7 +1387,11 @@
 9594,1173,34.13909878,-1.40605486,Mara,Rorya,1,False,submersible,user-group,unknown,salty,enough,groundwater,communal standpipe,non functional
 9600,0,0.0,-2e-08,Mwanza,Magu,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
 9616,0,0.0,-2e-08,Mwanza,Magu,0,True,handpump,user-group,never pay,salty,insufficient,groundwater,hand pump,non functional
+<<<<<<< HEAD
 9624,0,33.61561065,-3.2219983,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,seasonal,groundwater,hand pump,functional
+=======
+9624,0,33.61561065,-3.2219982999999996,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,seasonal,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 9630,0,31.65483101,-1.25529597,Kagera,Misenyi,0,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
 9646,0,34.06476318,-3.10146534,Shinyanga,Maswa,0,False,handpump,user-group,other,good,enough,groundwater,hand pump,functional
 9650,1382,34.32279772,-2.98530436,Shinyanga,Bariadi,300,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -1495,7 +1605,11 @@
 11304,0,31.155207,-1.828558,Kagera,Karagwe,0,True,gravity,other,never pay,good,seasonal,surface,communal standpipe,non functional
 11310,0,31.68502693,-1.20241419,Kagera,Misenyi,0,True,motorpump,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
 11323,0,33.39181255,-2.83504324,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 11332,0,33.0994274,-2.73998271,Mwanza,Missungwi,0,True,handpump,user-group,pay annually,good,insufficient,groundwater,hand pump,functional
+=======
+11332,0,33.099427399999996,-2.73998271,Mwanza,Missungwi,0,True,handpump,user-group,pay annually,good,insufficient,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 11334,1162,33.61212013,-2.15838958,Mara,Bunda,500,False,handpump,user-group,unknown,milky,insufficient,groundwater,hand pump,non functional
 11337,0,31.70033377,-2.62240663,Kagera,Chato,0,True,handpump,user-group,pay monthly,good,enough,groundwater,hand pump,functional
 11339,0,31.73566526,-1.34786894,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,unknown,insufficient,groundwater,communal standpipe,non functional
@@ -1512,7 +1626,11 @@
 11400,0,33.05275703,-2.43761632,Mwanza,Ilemela,0,True,handpump,user-group,pay monthly,good,enough,groundwater,hand pump,functional
 11405,0,33.06661236,-2.58144242,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 11445,0,33.696011299999995,-3.12752249,Shinyanga,Maswa,0,False,handpump,user-group,pay when scheme fails,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 11446,1141,33.44978402,-2.1485294,Mara,Bunda,420,True,gravity,user-group,pay per bucket,good,enough,surface,communal standpipe,non functional
+=======
+11446,1141,33.44978402,-2.1485293999999997,Mara,Bunda,420,True,gravity,user-group,pay per bucket,good,enough,surface,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 11456,0,33.40850102,-2.93848322,Mwanza,Kwimba,0,True,motorpump,user-group,pay per bucket,good,enough,groundwater,communal standpipe,functional
 11478,0,31.74735766,-2.34647038,Kagera,Chato,0,True,handpump,user-group,pay per bucket,good,insufficient,groundwater,hand pump,functional
 11487,0,33.51569669,-2.82452023,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -1572,7 +1690,11 @@
 11938,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
 11942,0,31.44846438,-1.57924571,Kagera,Bukoba Rural,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 11943,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,other,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 11944,0,32.47421856,-2.5224863,Mwanza,Sengerema,0,True,motorpump,user-group,unknown,good,enough,surface,communal standpipe,non functional
+=======
+11944,0,32.47421856,-2.5224862999999997,Mwanza,Sengerema,0,True,motorpump,user-group,unknown,good,enough,surface,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 11951,0,33.59144614,-3.00580428,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 11954,0,31.63726327,-1.42767704,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
 11962,1158,34.13077606,-1.40238654,Mara,Rorya,254,False,submersible,user-group,unknown,salty,enough,groundwater,communal standpipe,non functional
@@ -1784,7 +1906,11 @@
 13555,0,0.0,-2e-08,Mwanza,Geita,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 13559,1193,34.103928499999995,-1.64356962,Mara,Musoma Rural,501,True,gravity,parastatal,unknown,good,enough,surface,communal standpipe,functional
 13566,0,0.0,-2e-08,Mwanza,Geita,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+<<<<<<< HEAD
 13585,1690,34.4557793,-1.36876516,Mara,Tarime,100,True,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
+=======
+13585,1690,34.455779299999996,-1.36876516,Mara,Tarime,100,True,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 13587,0,0.0,-2e-08,Mwanza,Geita,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 13590,0,32.90944034,-2.70379847,Mwanza,Missungwi,0,True,submersible,parastatal,never pay,good,insufficient,surface,communal standpipe,functional
 13598,1151,33.56450957,-1.78928411,Mara,Musoma Rural,1860,True,gravity,parastatal,unknown,good,enough,surface,communal standpipe,functional
@@ -1855,7 +1981,11 @@
 14032,1344,34.65575625,-1.61360616,Mara,Serengeti,3832,True,handpump,user-group,unknown,salty,enough,groundwater,hand pump,non functional
 14044,0,30.93615094,-1.20754111,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
 14057,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,salty,enough,groundwater,hand pump,non functional
+<<<<<<< HEAD
 14061,0,31.87299921,-2.9821509,Kagera,Chato,0,True,handpump,user-group,pay per bucket,good,enough,groundwater,hand pump,functional
+=======
+14061,0,31.87299921,-2.9821508999999997,Kagera,Chato,0,True,handpump,user-group,pay per bucket,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 14067,0,33.279483,-2.75572866,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 14072,0,32.97442478,-2.38437742,Mwanza,Ilemela,0,True,handpump,user-group,never pay,salty,enough,groundwater,hand pump,non functional
 14100,0,0.0,-2e-08,Mwanza,Geita,0,True,submersible,user-group,never pay,good,insufficient,surface,communal standpipe,functional
@@ -1950,7 +2080,11 @@
 14785,0,31.75435482,-1.00461556,Kagera,Misenyi,0,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
 14796,0,30.99671368,-1.70214354,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
 14807,0,33.08754233,-2.99959035,Mwanza,Missungwi,0,True,motorpump,user-group,never pay,unknown,unknown,groundwater,communal standpipe,functional
+<<<<<<< HEAD
 14819,0,33.74592973,-3.0614954,Shinyanga,Maswa,0,False,handpump,user-group,pay when scheme fails,good,enough,groundwater,hand pump,functional
+=======
+14819,0,33.74592973,-3.0614953999999996,Shinyanga,Maswa,0,False,handpump,user-group,pay when scheme fails,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 14832,0,31.59325476,-1.48967603,Kagera,Bukoba Rural,0,True,gravity,user-group,pay monthly,good,enough,surface,communal standpipe,functional
 14842,1393,34.09160601,-1.77728225,Mara,Musoma Rural,320,True,handpump,user-group,unknown,salty,insufficient,groundwater,hand pump,non functional
 14860,0,0.0,-2e-08,Mwanza,Magu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
@@ -2072,7 +2206,11 @@
 15663,1609,34.75676483,-1.79009404,Mara,Serengeti,1000,True,handpump,user-group,never pay,good,seasonal,groundwater,hand pump,functional
 15666,0,0.0,-2e-08,Mwanza,Geita,0,True,gravity,user-group,unknown,unknown,dry,surface,communal standpipe,non functional
 15687,0,31.56859609,-1.61881039,Kagera,Muleba,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
+<<<<<<< HEAD
 15696,0,31.6678502,-2.78257696,Kagera,Biharamulo,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+=======
+15696,0,31.667850199999997,-2.78257696,Kagera,Biharamulo,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 15705,1575,34.519200299999994,-1.32106415,Mara,Tarime,1,True,handpump,user-group,pay monthly,good,insufficient,groundwater,hand pump,non functional
 15707,1262,34.0035643,-1.62086829,Mara,Musoma Rural,320,True,gravity,user-group,unknown,good,enough,surface,communal standpipe,non functional
 15712,0,33.18889235,-2.62311818,Mwanza,Magu,0,True,handpump,user-group,pay annually,good,enough,groundwater,hand pump,functional
@@ -2104,7 +2242,11 @@
 15873,0,31.40899069,-1.01362562,Kagera,Misenyi,0,True,handpump,user-group,pay when scheme fails,good,insufficient,groundwater,hand pump,non functional
 15875,0,32.7217974,-3.8363912,Shinyanga,Kahama,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 15879,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,unknown,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 15880,0,30.57945534,-2.5786459,Kagera,Ngara,0,False,handpump,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
+=======
+15880,0,30.57945534,-2.5786458999999997,Kagera,Ngara,0,False,handpump,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 15881,0,30.50271107,-2.89859693,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 15884,1227,34.15017346,-1.71627141,Mara,Musoma Rural,250,True,handpump,user-group,unknown,good,enough,groundwater,hand pump,non functional
 15893,1416,34.01948225,-1.90178652,Mara,Bunda,250,True,gravity,user-group,pay per bucket,good,enough,groundwater,communal standpipe,functional
@@ -2182,7 +2324,11 @@
 16357,1358,34.1743912,-2.92780241,Shinyanga,Bariadi,500,False,handpump,user-group,other,good,enough,groundwater,hand pump,functional
 16371,0,33.35408202,-2.57731847,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 16390,0,32.90785145,-2.69962939,Mwanza,Missungwi,0,True,handpump,user-group,never pay,milky,insufficient,groundwater,hand pump,non functional
+<<<<<<< HEAD
 16391,1292,34.2246475,-1.44567656,Mara,Tarime,300,True,handpump,user-group,pay monthly,salty,enough,groundwater,hand pump,functional
+=======
+16391,1292,34.224647499999996,-1.44567656,Mara,Tarime,300,True,handpump,user-group,pay monthly,salty,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 16402,0,33.01334869,-2.60208505,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 16408,0,31.10388808,-1.49609185,Kagera,Karagwe,0,True,gravity,other,never pay,good,seasonal,surface,communal standpipe,functional
 16420,0,31.42537045,-1.22995922,Kagera,Misenyi,0,True,handpump,user-group,pay monthly,good,insufficient,groundwater,hand pump,non functional
@@ -2198,7 +2344,11 @@
 16502,0,34.36801242,-2.97363288,Shinyanga,Meatu,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 16516,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 16519,0,30.79505453,-2.46594884,Kagera,Ngara,0,False,gravity,commercial,never pay,good,insufficient,groundwater,communal standpipe,non functional
+<<<<<<< HEAD
 16520,0,31.628884000000006,-1.84491459,Kagera,Muleba,0,True,gravity,user-group,pay when scheme fails,good,enough,groundwater,communal standpipe,functional
+=======
+16520,0,31.628884000000003,-1.84491459,Kagera,Muleba,0,True,gravity,user-group,pay when scheme fails,good,enough,groundwater,communal standpipe,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 16521,0,33.50911169,-2.64850532,Mwanza,Magu,0,True,handpump,user-group,never pay,salty,enough,groundwater,hand pump,functional
 16546,0,0.0,-2e-08,Mwanza,Geita,0,True,other,user-group,never pay,good,insufficient,surface,communal standpipe,functional
 16548,0,31.3908192,-1.00834558,Kagera,Misenyi,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
@@ -2359,7 +2509,11 @@
 17689,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,other,good,enough,groundwater,hand pump,non functional
 17693,0,31.67478839,-1.19793405,Kagera,Misenyi,0,True,motorpump,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
 17705,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 17709,0,31.772086100000006,-1.01183495,Kagera,Misenyi,0,True,gravity,user-group,pay when scheme fails,good,insufficient,groundwater,communal standpipe,non functional
+=======
+17709,0,31.772086100000003,-1.01183495,Kagera,Misenyi,0,True,gravity,user-group,pay when scheme fails,good,insufficient,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 17728,0,0.0,-2e-08,Mwanza,Geita,0,True,handpump,user-group,unknown,unknown,dry,groundwater,hand pump,non functional
 17741,0,33.42691808,-2.60282073,Mwanza,Magu,0,True,motorpump,user-group,never pay,good,dry,groundwater,communal standpipe,functional
 17749,0,31.50407172,-2.14125297,Kagera,Muleba,0,True,handpump,user-group,never pay,good,seasonal,groundwater,hand pump,non functional
@@ -2378,7 +2532,11 @@
 17840,0,31.50416155,-2.04988958,Kagera,Muleba,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
 17846,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 17848,0,33.51313243,-3.1095922000000003,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 17863,0,33.08012535,-2.4250698,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+=======
+17863,0,33.08012535,-2.4250697999999997,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 17880,1177,33.62457372,-2.13799815,Mara,Bunda,807,False,gravity,parastatal,unknown,good,seasonal,surface,communal standpipe,non functional
 17883,1392,34.01867244,-1.8007422999999998,Mara,Musoma Rural,320,True,gravity,user-group,unknown,good,enough,surface,communal standpipe,non functional
 17905,0,31.06605126,-1.45014439,Kagera,Karagwe,0,True,gravity,other,pay per bucket,good,dry,surface,communal standpipe,non functional
@@ -2432,7 +2590,11 @@
 18283,0,34.41575521,-2.91469818,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 18285,0,33.65032605,-2.69477529,Mwanza,Magu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 18292,0,31.83734811,-2.62017494,Kagera,Chato,0,True,handpump,user-group,never pay,salty,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 18293,0,31.8532112,-1.16240084,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+=======
+18293,0,31.853211199999997,-1.16240084,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 18301,0,33.55395928,-2.83141883,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 18302,0,32.84323457,-2.91435885,Mwanza,Missungwi,0,True,submersible,user-group,never pay,unknown,unknown,surface,communal standpipe,functional
 18314,0,33.27995416,-2.75349267,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -2503,11 +2665,19 @@
 18762,0,31.40999975,-1.19145914,Kagera,Misenyi,0,True,handpump,user-group,pay when scheme fails,good,insufficient,groundwater,hand pump,functional
 18766,1250,34.15733148,-1.70544373,Mara,Musoma Rural,253,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,non functional
 18767,0,0.0,-2e-08,Mwanza,Magu,0,True,handpump,user-group,pay when scheme fails,salty,insufficient,groundwater,hand pump,non functional
+<<<<<<< HEAD
 18769,1186,32.92395676,-1.9575972,Mwanza,Ukerewe,400,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 18780,0,31.80532374,-1.34857192,Kagera,Bukoba Urban,0,False,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,functional
 18785,0,31.12567444,-1.70945559,Kagera,Karagwe,0,True,gravity,user-group,pay annually,good,enough,groundwater,communal standpipe,functional
 18800,1192,33.04079737,-2.01400583,Mwanza,Ukerewe,350,True,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
 18801,0,30.59220713,-2.5383808,Kagera,Ngara,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
+=======
+18769,1186,32.92395676,-1.9575971999999997,Mwanza,Ukerewe,400,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+18780,0,31.80532374,-1.34857192,Kagera,Bukoba Urban,0,False,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,functional
+18785,0,31.12567444,-1.70945559,Kagera,Karagwe,0,True,gravity,user-group,pay annually,good,enough,groundwater,communal standpipe,functional
+18800,1192,33.04079737,-2.01400583,Mwanza,Ukerewe,350,True,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
+18801,0,30.59220713,-2.5383807999999997,Kagera,Ngara,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 18808,0,0.0,-2e-08,Mwanza,Magu,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
 18811,0,31.65257469,-1.84860709,Kagera,Muleba,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
 18827,0,0.0,-2e-08,Mwanza,Geita,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
@@ -2650,7 +2820,11 @@
 19874,0,31.51570238,-1.39708025,Kagera,Bukoba Rural,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 19885,1609,34.41122808,-1.36522211,Mara,Tarime,30,True,handpump,commercial,unknown,good,enough,groundwater,hand pump,functional
 19889,0,31.57742033,-1.60471339,Kagera,Muleba,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+<<<<<<< HEAD
 19893,1261,34.0371876,-1.25380663,Mara,Rorya,4000,False,handpump,user-group,unknown,salty,enough,groundwater,hand pump,non functional
+=======
+19893,1261,34.037187599999996,-1.25380663,Mara,Rorya,4000,False,handpump,user-group,unknown,salty,enough,groundwater,hand pump,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 19902,1182,32.96638382,-2.08269716,Mwanza,Ukerewe,200,True,other,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
 19903,1617,34.68085539,-1.85133836,Mara,Serengeti,200,True,handpump,other,never pay,good,insufficient,groundwater,hand pump,non functional
 19914,0,31.37291459,-1.11739894,Kagera,Misenyi,0,True,handpump,user-group,pay monthly,good,insufficient,groundwater,hand pump,non functional
@@ -2685,7 +2859,11 @@
 20142,0,30.64657119,-1.18565924,Kagera,Karagwe,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 20157,1614,34.75858444,-1.78156909,Mara,Serengeti,4000,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 20162,0,34.07604378,-3.12407083,Shinyanga,Maswa,0,False,handpump,user-group,other,salty,insufficient,groundwater,hand pump,non functional
+<<<<<<< HEAD
 20169,0,30.60333356,-2.4900704,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
+=======
+20169,0,30.60333356,-2.4900703999999996,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 20179,1269,33.87800488,-1.72580001,Mara,Musoma Rural,250,True,handpump,user-group,unknown,good,enough,groundwater,hand pump,non functional
 20205,0,33.48246919,-3.10776522,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 20206,0,30.69697551,-2.46770276,Kagera,Ngara,0,False,rope pump,commercial,pay per bucket,good,insufficient,groundwater,communal standpipe,functional
@@ -2697,14 +2875,22 @@
 20266,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 20269,0,30.95038616,-1.29092737,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 20275,1197,33.86432173,-1.54109572,Mara,Musoma Rural,350,True,gravity,user-group,never pay,good,enough,surface,communal standpipe,non functional
+<<<<<<< HEAD
 20279,1198,33.03923808,-2.0152722,Mwanza,Ukerewe,1000,True,other,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+=======
+20279,1198,33.03923808,-2.0152721999999996,Mwanza,Ukerewe,1000,True,other,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 20284,1249,33.84935784,-1.80756683,Mara,Musoma Rural,830,True,gravity,parastatal,unknown,good,seasonal,surface,communal standpipe,non functional
 20300,0,0.0,-2e-08,Mwanza,Geita,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 20305,0,31.12334367,-1.71853288,Kagera,Karagwe,0,True,gravity,user-group,pay annually,good,enough,groundwater,communal standpipe,functional
 20314,0,0.0,-2e-08,Mwanza,Geita,0,True,submersible,user-group,unknown,unknown,dry,surface,communal standpipe,non functional
 20334,0,33.37459723,-2.79717803,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 20338,0,32.78640711,-3.28638422,Shinyanga,Shinyanga Rural,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+<<<<<<< HEAD
 20352,0,32.77748678,-2.5264489,Mwanza,Sengerema,0,True,other,user-group,never pay,good,enough,groundwater,hand pump,non functional
+=======
+20352,0,32.77748678,-2.5264488999999997,Mwanza,Sengerema,0,True,other,user-group,never pay,good,enough,groundwater,hand pump,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 20353,0,30.79929976,-2.43219602,Kagera,Ngara,0,False,gravity,user-group,pay monthly,good,enough,groundwater,communal standpipe,non functional
 20357,0,31.42559151,-1.21107413,Kagera,Misenyi,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 20366,0,31.75268789,-1.49069549,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
@@ -2738,7 +2924,11 @@
 20579,0,33.07437138,-2.3857197,Mwanza,Ilemela,0,True,handpump,user-group,pay monthly,salty,insufficient,groundwater,hand pump,non functional
 20583,0,30.63560394,-2.48048644,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 20602,1357,34.16126433,-2.95341682,Shinyanga,Bariadi,500,False,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
+<<<<<<< HEAD
 20605,0,31.309093800000007,-2.6297886000000004,Kagera,Biharamulo,0,True,gravity,user-group,pay per bucket,good,enough,groundwater,communal standpipe,functional
+=======
+20605,0,31.309093800000003,-2.6297886000000004,Kagera,Biharamulo,0,True,gravity,user-group,pay per bucket,good,enough,groundwater,communal standpipe,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 20607,0,32.87541799,-2.63320497,Mwanza,Ilemela,0,True,motorpump,user-group,pay per bucket,good,enough,surface,communal standpipe,functional
 20616,1172,32.90893169,-1.89519416,Mwanza,Ukerewe,300,True,handpump,user-group,never pay,unknown,insufficient,groundwater,hand pump,functional
 20618,0,33.35180159,-2.86090731,Mwanza,Ilemela,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
@@ -2749,7 +2939,11 @@
 20631,0,0.0,-2e-08,Mwanza,Magu,0,True,motorpump,user-group,pay per bucket,good,enough,groundwater,communal standpipe,functional
 20635,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
 20647,0,33.347042800000004,-2.81776927,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+<<<<<<< HEAD
 20654,0,31.603954700000006,-1.78173455,Kagera,Muleba,0,True,submersible,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+=======
+20654,0,31.603954700000003,-1.78173455,Kagera,Muleba,0,True,submersible,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 20656,1378,34.01978291,-1.90520107,Mara,Bunda,300,False,handpump,user-group,unknown,good,dry,groundwater,hand pump,non functional
 20657,0,30.95481544,-1.26073973,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
 20665,1287,34.3301209,-1.64416521,Mara,Serengeti,50,True,rope pump,commercial,never pay,salty,enough,groundwater,hand pump,functional
@@ -2775,7 +2969,11 @@
 20844,0,33.59919834,-3.21947744,Shinyanga,Maswa,0,False,gravity,user-group,other,good,enough,groundwater,communal standpipe,non functional
 20853,0,33.63806779,-2.80200399,Mwanza,Magu,0,True,handpump,user-group,never pay,salty,dry,groundwater,hand pump,non functional
 20863,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,parastatal,never pay,good,enough,groundwater,hand pump,non functional
+<<<<<<< HEAD
 20869,0,31.5551785,-1.79163188,Kagera,Muleba,0,True,submersible,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+=======
+20869,0,31.555178499999997,-1.79163188,Kagera,Muleba,0,True,submersible,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 20878,0,33.27963629,-2.71683661,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 20886,1458,34.40522315,-1.32518413,Mara,Tarime,50,True,handpump,user-group,unknown,good,enough,groundwater,hand pump,non functional
 20889,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
@@ -2827,7 +3025,11 @@
 21206,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
 21207,0,33.42537402,-2.58893762,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 21214,0,33.13515342,-2.710273,Mwanza,Missungwi,0,True,handpump,user-group,never pay,milky,insufficient,groundwater,hand pump,non functional
+<<<<<<< HEAD
 21217,1141,33.45659776,-2.1491619,Mara,Bunda,700,False,handpump,user-group,never pay,salty,enough,groundwater,hand pump,functional
+=======
+21217,1141,33.45659776,-2.1491618999999997,Mara,Bunda,700,False,handpump,user-group,never pay,salty,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 21222,0,32.111648800000005,-2.45359897,Mwanza,Sengerema,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 21238,0,31.46723701,-1.45936357,Kagera,Bukoba Rural,0,True,handpump,user-group,never pay,colored,insufficient,groundwater,hand pump,non functional
 21244,1365,34.50777737,-1.76645937,Mara,Serengeti,500,True,handpump,user-group,unknown,salty,enough,groundwater,hand pump,non functional
@@ -2854,7 +3056,11 @@
 21413,0,32.90891707,-2.85042424,Mwanza,Missungwi,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 21428,0,31.69059038,-2.3728944,Kagera,Chato,0,True,handpump,user-group,pay monthly,good,insufficient,groundwater,hand pump,functional
 21434,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
+<<<<<<< HEAD
 21450,1213,34.01562317,-2.0362835,Mara,Bunda,300,True,gravity,user-group,unknown,unknown,unknown,groundwater,communal standpipe,non functional
+=======
+21450,1213,34.01562317,-2.0362834999999997,Mara,Bunda,300,True,gravity,user-group,unknown,unknown,unknown,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 21458,1212,33.73411972,-1.59513754,Mara,Musoma Rural,250,True,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
 21465,0,0.0,-2e-08,Mwanza,Magu,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,non functional
 21481,0,31.71030222,-3.01216845,Kagera,Chato,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
@@ -2868,7 +3074,11 @@
 21539,1250,33.85993398,-1.75120225,Mara,Musoma Rural,250,True,handpump,user-group,unknown,good,insufficient,groundwater,hand pump,functional
 21555,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
 21566,0,31.55209619,-1.88775333,Kagera,Muleba,0,True,handpump,user-group,never pay,salty,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 21569,0,31.7608488,-2.6347323,Kagera,Chato,0,True,handpump,commercial,never pay,good,enough,groundwater,hand pump,functional
+=======
+21569,0,31.7608488,-2.6347322999999996,Kagera,Chato,0,True,handpump,commercial,never pay,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 21574,0,33.57966093,-2.76729663,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 21579,1599,34.44782334,-1.26242486,Mara,Tarime,1,True,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
 21588,0,0.0,-2e-08,Mwanza,Magu,0,True,handpump,user-group,pay when scheme fails,good,insufficient,groundwater,hand pump,functional
@@ -2878,7 +3088,11 @@
 21642,0,30.53650466,-2.73709982,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 21647,1595,34.74660176,-1.88534637,Mara,Serengeti,700,True,handpump,user-group,unknown,salty,insufficient,groundwater,hand pump,functional
 21654,0,30.98226612,-1.68126809,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
+<<<<<<< HEAD
 21662,0,33.47873117,-2.6835434,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+=======
+21662,0,33.47873117,-2.6835433999999996,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 21664,0,31.735613399999995,-1.08831465,Kagera,Misenyi,0,True,handpump,user-group,never pay,good,unknown,groundwater,hand pump,functional
 21670,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,salty,insufficient,groundwater,hand pump,non functional
 21671,1289,34.15323578,-1.76452109,Mara,Musoma Rural,250,True,handpump,user-group,unknown,salty,enough,groundwater,hand pump,functional
@@ -2907,7 +3121,11 @@
 21835,1229,34.49357799,-1.53589755,Mara,Serengeti,1,True,gravity,user-group,never pay,good,enough,unknown,communal standpipe,non functional
 21839,0,33.3906266,-3.18997668,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 21841,0,31.02904886,-1.02464941,Kagera,Misenyi,0,True,gravity,user-group,pay when scheme fails,good,insufficient,groundwater,communal standpipe,non functional
+<<<<<<< HEAD
 21844,0,31.8078987,-1.27175089,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+=======
+21844,0,31.807898699999996,-1.27175089,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 21853,0,33.52243956,-3.24851237,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,seasonal,groundwater,hand pump,non functional
 21854,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,salty,enough,groundwater,hand pump,non functional
 21857,0,33.57342699,-2.9478099,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -2915,7 +3133,11 @@
 21867,1148,33.233788,-2.07309547,Mara,Bunda,250,False,handpump,user-group,pay when scheme fails,good,enough,groundwater,hand pump,functional
 21873,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 21874,1340,34.06556355,-2.98817156,Shinyanga,Bariadi,530,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
+<<<<<<< HEAD
 21876,0,30.941166600000006,-1.21267393,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
+=======
+21876,0,30.941166600000003,-1.21267393,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 21889,0,0.0,-2e-08,Mwanza,Geita,0,True,submersible,user-group,never pay,unknown,dry,groundwater,communal standpipe,non functional
 21903,0,32.44449063,-2.39156594,Mwanza,Sengerema,0,False,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
 21909,0,30.93989762,-1.02575135,Kagera,Misenyi,0,True,submersible,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
@@ -3001,7 +3223,11 @@
 22497,1184,34.06089944,-1.5777715,Mara,Musoma Rural,250,True,handpump,user-group,pay monthly,good,enough,groundwater,hand pump,functional
 22501,0,33.07627844,-2.38704182,Mwanza,Ilemela,0,True,handpump,user-group,pay monthly,salty,insufficient,groundwater,hand pump,non functional
 22507,0,34.30261762,-3.11357766,Shinyanga,Meatu,0,True,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
+<<<<<<< HEAD
 22512,0,30.7857759,-2.38311927,Kagera,Ngara,0,False,gravity,parastatal,never pay,good,dry,groundwater,communal standpipe,non functional
+=======
+22512,0,30.785775899999997,-2.38311927,Kagera,Ngara,0,False,gravity,parastatal,never pay,good,dry,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 22528,1264,34.04347902,-1.98357857,Mara,Bunda,250,False,handpump,user-group,pay when scheme fails,salty,enough,groundwater,hand pump,functional
 22531,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
 22551,0,31.82939636,-1.28259461,Kagera,Bukoba Urban,0,False,gravity,user-group,never pay,good,enough,surface,communal standpipe,functional
@@ -3058,10 +3284,17 @@
 22899,0,33.87971512,-3.16689247,Shinyanga,Maswa,0,False,gravity,commercial,pay per bucket,good,enough,surface,communal standpipe,functional
 22901,0,0.0,-2e-08,Mwanza,Magu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 22909,0,33.36340797,-2.91135317,Mwanza,Ilemela,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 22912,0,34.13016561,-3.0747618,Shinyanga,Maswa,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 22915,0,0.0,-2e-08,Mwanza,Magu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 22922,0,31.67150247,-1.82943089,Kagera,Muleba,0,True,submersible,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 22928,0,32.53246936,-3.5534124,Shinyanga,Kahama,0,True,handpump,user-group,unknown,milky,seasonal,groundwater,hand pump,functional
+=======
+22912,0,34.13016561,-3.0747617999999997,Shinyanga,Maswa,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+22915,0,0.0,-2e-08,Mwanza,Magu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+22922,0,31.67150247,-1.82943089,Kagera,Muleba,0,True,submersible,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+22928,0,32.53246936,-3.5534123999999996,Shinyanga,Kahama,0,True,handpump,user-group,unknown,milky,seasonal,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 22930,1434,34.04762042,-1.9351942,Mara,Bunda,250,False,handpump,user-group,pay when scheme fails,good,enough,groundwater,hand pump,functional
 22951,1383,34.10723639,-1.20739536,Mara,Rorya,380,False,submersible,user-group,pay per bucket,good,enough,surface,communal standpipe,non functional
 22953,1196,33.52149448,-1.84562043,Mara,Musoma Rural,821,False,gravity,parastatal,unknown,good,insufficient,surface,communal standpipe,non functional
@@ -3090,7 +3323,11 @@
 23133,0,33.34442487,-2.99328854,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 23139,1219,34.03344217,-2.01457823,Mara,Bunda,30,False,gravity,parastatal,unknown,good,seasonal,surface,communal standpipe,functional
 23141,0,33.57259362,-2.95464248,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 23151,0,33.2090012,-2.75178973,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+=======
+23151,0,33.209001199999996,-2.75178973,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 23154,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 23157,0,31.6752391,-2.81585272,Kagera,Biharamulo,0,True,handpump,user-group,pay monthly,good,seasonal,groundwater,hand pump,non functional
 23165,0,32.06177423,-2.40131571,Mwanza,Sengerema,0,False,other,commercial,pay per bucket,good,enough,groundwater,hand pump,functional
@@ -3216,7 +3453,11 @@
 23964,0,31.56482702,-1.84536107,Kagera,Muleba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 23970,0,33.19103532,-2.74929767,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 23981,0,31.40623252,-1.20665889,Kagera,Misenyi,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
+<<<<<<< HEAD
 23985,0,34.1713603,-3.11770035,Shinyanga,Meatu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+=======
+23985,0,34.171360299999996,-3.11770035,Shinyanga,Meatu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 24005,0,34.13897365,-3.06650229,Shinyanga,Maswa,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 24018,0,31.67136615,-1.83456706,Kagera,Muleba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 24019,0,31.17196734,-1.50395707,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
@@ -3243,7 +3484,11 @@
 24163,0,32.92697663,-3.56280036,Shinyanga,Shinyanga Rural,0,True,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
 24190,1339,34.05801556,-2.99116317,Shinyanga,Bariadi,600,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 24193,1215,33.73485089,-1.61818832,Mara,Musoma Rural,780,False,gravity,parastatal,unknown,good,seasonal,surface,communal standpipe,non functional
+<<<<<<< HEAD
 24199,1495,34.6194703,-1.74285871,Mara,Serengeti,400,True,handpump,user-group,unknown,good,insufficient,groundwater,hand pump,non functional
+=======
+24199,1495,34.619470299999996,-1.74285871,Mara,Serengeti,400,True,handpump,user-group,unknown,good,insufficient,groundwater,hand pump,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 24200,0,30.8098255,-1.29175429,Kagera,Karagwe,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 24201,0,0.0,-2e-08,Mwanza,Magu,0,True,other,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 24205,1333,33.93198016,-1.66399013,Mara,Musoma Rural,350,True,handpump,user-group,pay monthly,good,enough,groundwater,hand pump,functional
@@ -3275,7 +3520,11 @@
 24404,0,31.59827229,-2.5812607000000005,Kagera,Chato,0,True,handpump,user-group,other,good,enough,groundwater,hand pump,functional
 24409,0,30.71630315,-2.62096076,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 24410,0,33.73126312,-3.18976295,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+<<<<<<< HEAD
 24412,0,32.90936361,-3.3945088,Shinyanga,Shinyanga Rural,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+=======
+24412,0,32.90936361,-3.3945087999999997,Shinyanga,Shinyanga Rural,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 24413,0,34.36647117,-3.08967059,Shinyanga,Meatu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 24416,0,33.4305423,-2.85366352,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 24422,0,33.42462971,-2.61053271,Mwanza,Magu,0,True,motorpump,user-group,never pay,good,enough,groundwater,communal standpipe,functional
@@ -3467,7 +3716,11 @@
 25835,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,pay annually,good,enough,groundwater,hand pump,functional
 25843,0,32.24151166,-2.28595395,Mwanza,Sengerema,0,True,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
 25862,0,31.771173600000004,-0.99911702,Kagera,Misenyi,0,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
+<<<<<<< HEAD
 25863,1451,34.0289513,-1.93197957,Mara,Bunda,70,False,gravity,parastatal,unknown,good,seasonal,groundwater,communal standpipe,functional
+=======
+25863,1451,34.028951299999996,-1.93197957,Mara,Bunda,70,False,gravity,parastatal,unknown,good,seasonal,groundwater,communal standpipe,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 25884,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,other,good,enough,groundwater,hand pump,functional
 25887,1156,33.8668875,-1.53592785,Mara,Musoma Rural,250,True,handpump,user-group,unknown,good,enough,groundwater,communal standpipe,non functional
 25890,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,other,good,enough,groundwater,hand pump,non functional
@@ -3476,13 +3729,21 @@
 25911,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,other,good,enough,groundwater,hand pump,functional
 25914,0,34.20626568,-2.98084156,Shinyanga,Meatu,0,False,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 25915,0,0.0,-2e-08,Mwanza,Geita,0,True,other,user-group,never pay,good,insufficient,surface,communal standpipe,functional
+<<<<<<< HEAD
 25920,0,31.3671964,-2.66129609,Kagera,Biharamulo,0,True,gravity,user-group,never pay,good,seasonal,surface,communal standpipe,functional
+=======
+25920,0,31.367196399999997,-2.66129609,Kagera,Biharamulo,0,True,gravity,user-group,never pay,good,seasonal,surface,communal standpipe,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 25928,0,0.0,-2e-08,Mwanza,Geita,0,True,submersible,user-group,pay per bucket,good,insufficient,groundwater,communal standpipe,functional
 25935,1221,33.50182651,-2.12586565,Mara,Bunda,250,True,gravity,user-group,pay per bucket,good,enough,surface,communal standpipe,non functional
 25939,0,33.42840944,-3.02901348,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 25941,1167,33.54710389,-2.0692623,Mara,Bunda,250,True,gravity,user-group,unknown,good,unknown,surface,communal standpipe,non functional
 25965,0,33.71409249,-3.1764784,Shinyanga,Maswa,0,False,handpump,user-group,other,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 25985,0,33.74912258,-3.0739363,Shinyanga,Maswa,0,False,handpump,user-group,pay when scheme fails,good,enough,groundwater,hand pump,functional
+=======
+25985,0,33.74912258,-3.0739362999999997,Shinyanga,Maswa,0,False,handpump,user-group,pay when scheme fails,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 25986,0,32.30117173,-2.52441847,Mwanza,Sengerema,0,True,motorpump,user-group,never pay,good,enough,surface,communal standpipe,non functional
 25989,1351,34.13377061,-2.87668007,Shinyanga,Bariadi,500,False,handpump,user-group,other,salty,insufficient,groundwater,hand pump,non functional
 25990,0,32.6152005,-2.47021288,Mwanza,Kwimba,0,True,handpump,user-group,never pay,salty,dry,groundwater,hand pump,non functional
@@ -3521,7 +3782,11 @@
 26253,1265,33.05397334,-2.06307735,Mwanza,Ukerewe,300,True,other,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
 26255,1302,34.06401488,-1.96299565,Mara,Bunda,250,False,handpump,user-group,pay monthly,salty,insufficient,groundwater,hand pump,non functional
 26256,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
+<<<<<<< HEAD
 26265,0,30.60492954,-2.4944293,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+=======
+26265,0,30.60492954,-2.4944292999999997,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 26274,0,34.30538409,-2.96259409,Shinyanga,Meatu,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 26275,0,30.54357054,-2.50680209,Kagera,Ngara,0,False,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
 26284,0,31.58856825,-1.79630843,Kagera,Muleba,0,True,submersible,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
@@ -3623,7 +3888,11 @@
 26954,0,34.31506203,-3.1000442,Shinyanga,Meatu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 26965,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
 26994,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,non functional
+<<<<<<< HEAD
 27002,1164,34.01703670000001,-1.15101739,Mara,Rorya,600,False,submersible,user-group,pay monthly,good,enough,surface,communal standpipe,non functional
+=======
+27002,1164,34.017036700000006,-1.15101739,Mara,Rorya,600,False,submersible,user-group,pay monthly,good,enough,surface,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 27012,1235,32.9780624,-2.51532072,Mwanza,Ilemela,690,True,handpump,user-group,pay monthly,good,enough,groundwater,hand pump,functional
 27016,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,other,good,enough,groundwater,hand pump,non functional
 27020,0,30.72491458,-2.78401129,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -3667,7 +3936,11 @@
 27308,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 27312,0,34.02667103,-3.11071235,Shinyanga,Maswa,0,False,handpump,user-group,other,good,insufficient,groundwater,hand pump,functional
 27316,0,31.38746758,-1.10875015,Kagera,Misenyi,0,True,handpump,user-group,pay monthly,good,insufficient,groundwater,hand pump,functional
+<<<<<<< HEAD
 27320,0,32.56789677,-3.4883937999999994,Shinyanga,Kahama,0,False,handpump,unknown,unknown,unknown,unknown,groundwater,hand pump,functional
+=======
+27320,0,32.56789677,-3.488393799999999,Shinyanga,Kahama,0,False,handpump,unknown,unknown,unknown,unknown,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 27336,0,32.90961246,-2.71488615,Mwanza,Missungwi,0,True,handpump,parastatal,never pay,good,seasonal,groundwater,hand pump,functional
 27343,0,32.17469708,-2.49136663,Mwanza,Sengerema,0,True,handpump,user-group,never pay,good,dry,groundwater,hand pump,functional
 27347,0,31.11577757,-1.74328674,Kagera,Karagwe,0,True,gravity,user-group,pay annually,good,enough,groundwater,communal standpipe,functional
@@ -3678,7 +3951,11 @@
 27375,0,33.16859051,-2.69411769,Mwanza,Missungwi,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 27381,0,34.37358864,-2.96434606,Shinyanga,Meatu,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 27383,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 27384,1193,33.03085858,-2.0189954,Mwanza,Ukerewe,610,True,handpump,unknown,never pay,good,insufficient,groundwater,hand pump,non functional
+=======
+27384,1193,33.03085858,-2.0189953999999997,Mwanza,Ukerewe,610,True,handpump,unknown,never pay,good,insufficient,groundwater,hand pump,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 27395,1356,34.16289282,-2.92090837,Shinyanga,Bariadi,500,False,handpump,user-group,never pay,salty,enough,groundwater,hand pump,non functional
 27412,0,31.65553485,-2.5397112,Kagera,Chato,0,True,handpump,user-group,pay monthly,good,seasonal,groundwater,hand pump,functional
 27413,1189,33.55001726,-2.06181037,Mara,Bunda,250,True,gravity,user-group,unknown,good,unknown,surface,communal standpipe,non functional
@@ -3725,7 +4002,11 @@
 27750,0,33.13260419,-3.23372744,Mwanza,Kwimba,0,True,submersible,user-group,pay monthly,good,enough,surface,communal standpipe,functional
 27754,0,33.1405382,-3.06228806,Mwanza,Missungwi,0,True,handpump,user-group,pay annually,salty,enough,groundwater,hand pump,functional
 27764,0,31.55834339,-1.49828601,Kagera,Bukoba Rural,0,True,gravity,user-group,pay monthly,good,enough,surface,communal standpipe,functional
+<<<<<<< HEAD
 27774,0,33.7242894,-2.70242218,Mwanza,Magu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
+=======
+27774,0,33.724289399999996,-2.70242218,Mwanza,Magu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 27780,0,32.92700229,-2.49104641,Mwanza,Missungwi,0,True,handpump,user-group,pay per bucket,good,enough,groundwater,hand pump,functional
 27786,1285,34.02218707,-1.61367632,Mara,Musoma Rural,793,False,gravity,user-group,unknown,good,enough,groundwater,communal standpipe,non functional
 27787,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
@@ -3749,7 +4030,11 @@
 27906,0,32.98393225,-2.47040852,Mwanza,Ilemela,0,True,handpump,user-group,pay monthly,salty,enough,groundwater,hand pump,non functional
 27921,0,32.4884858,-2.37207122,Mwanza,Sengerema,0,True,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
 27930,0,30.52800586,-2.79435926,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 27932,0,30.6510153,-1.27427639,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,functional
+=======
+27932,0,30.651015299999997,-1.27427639,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 27933,0,30.97489468,-1.7554212,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
 27959,1610,34.68681421,-1.85710553,Mara,Serengeti,500,True,rope pump,other,never pay,good,enough,groundwater,hand pump,functional
 27966,1151,33.94586611,-1.37492072,Mara,Rorya,100,False,submersible,user-group,never pay,good,enough,surface,communal standpipe,non functional
@@ -3810,7 +4095,11 @@
 28353,0,32.73329315,-2.57401313,Mwanza,Sengerema,0,True,handpump,user-group,never pay,salty,enough,groundwater,hand pump,functional
 28356,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 28371,1204,33.08744292,-2.07872643,Mwanza,Ukerewe,655,True,other,other,never pay,good,insufficient,surface,communal standpipe,non functional
+<<<<<<< HEAD
 28373,0,33.04563,-2.38509734,Mwanza,Missungwi,0,True,handpump,user-group,pay monthly,salty,enough,groundwater,hand pump,functional
+=======
+28373,0,33.045629999999996,-2.38509734,Mwanza,Missungwi,0,True,handpump,user-group,pay monthly,salty,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 28374,0,31.65810431,-1.48646629,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,enough,surface,communal standpipe,functional
 28389,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,salty,enough,groundwater,hand pump,non functional
 28401,0,33.39269577,-3.06286791,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -3823,7 +4112,11 @@
 28497,0,0.0,-2e-08,Mwanza,Geita,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 28501,0,30.7138929,-2.6187171,Kagera,Ngara,0,False,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
 28502,0,30.96522703,-1.73551596,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
+<<<<<<< HEAD
 28508,0,30.997247100000006,-2.75641777,Kagera,Biharamulo,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+=======
+28508,0,30.997247100000003,-2.75641777,Kagera,Biharamulo,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 28513,1464,34.58036765,-1.94090866,Mara,Serengeti,150,True,gravity,user-group,unknown,good,seasonal,surface,communal standpipe,functional
 28518,0,0.0,-2e-08,Mwanza,Geita,0,True,submersible,user-group,never pay,good,insufficient,groundwater,communal standpipe,functional
 28531,0,34.09408709,-3.08056984,Shinyanga,Maswa,0,False,gravity,user-group,other,unknown,seasonal,surface,communal standpipe,non functional
@@ -3866,7 +4159,11 @@
 28764,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 28766,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,other,good,insufficient,groundwater,hand pump,non functional
 28771,0,33.39775322,-2.58615334,Mwanza,Magu,0,False,motorpump,user-group,pay monthly,good,enough,groundwater,communal standpipe,non functional
+<<<<<<< HEAD
 28773,0,31.7452864,-2.3574649,Kagera,Chato,0,True,handpump,user-group,pay monthly,good,dry,groundwater,hand pump,non functional
+=======
+28773,0,31.7452864,-2.3574648999999996,Kagera,Chato,0,True,handpump,user-group,pay monthly,good,dry,groundwater,hand pump,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 28780,0,34.06197883,-3.10123847,Shinyanga,Maswa,0,False,handpump,user-group,other,salty,enough,groundwater,hand pump,functional
 28801,0,33.55216017,-2.53470596,Mwanza,Magu,0,True,handpump,user-group,never pay,salty,dry,groundwater,hand pump,non functional
 28807,0,33.11304714,-2.46718945,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -3945,7 +4242,11 @@
 29281,0,31.48376674,-1.401708,Kagera,Bukoba Rural,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 29283,0,31.45020482,-1.55614735,Kagera,Bukoba Rural,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 29286,0,33.572176,-3.00046713,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+<<<<<<< HEAD
 29296,0,30.584170500000006,-2.5798416,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+=======
+29296,0,30.584170500000003,-2.5798416,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 29305,0,31.40493692,-1.83276821,Kagera,Muleba,0,False,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
 29319,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 29325,0,33.34749843,-2.72654349,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
@@ -3954,7 +4255,11 @@
 29330,0,31.78266224,-2.63209056,Kagera,Chato,0,True,motorpump,user-group,never pay,good,unknown,groundwater,communal standpipe,non functional
 29347,0,30.8972119,-1.37969821,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
 29350,0,32.9770697,-2.41153524,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
+<<<<<<< HEAD
 29353,1168,33.4980175,-2.04913108,Mara,Bunda,1800,True,handpump,user-group,pay per bucket,salty,insufficient,groundwater,hand pump,functional
+=======
+29353,1168,33.498017499999996,-2.04913108,Mara,Bunda,1800,True,handpump,user-group,pay per bucket,salty,insufficient,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 29360,1605,34.68280636,-1.85295417,Mara,Serengeti,200,True,handpump,other,never pay,good,enough,groundwater,hand pump,non functional
 29380,0,30.68253277,-1.27862411,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
 29382,0,30.82838635,-2.57439932,Kagera,Ngara,0,False,gravity,parastatal,pay monthly,good,dry,groundwater,communal standpipe,non functional
@@ -4105,7 +4410,11 @@
 30526,0,30.93620718,-1.60412376,Kagera,Karagwe,0,True,gravity,other,never pay,good,seasonal,surface,communal standpipe,functional
 30527,0,0.0,-2e-08,Mwanza,Geita,0,True,submersible,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
 30532,0,30.59539308,-1.20905696,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
+<<<<<<< HEAD
 30533,0,31.739639500000006,-1.49774137,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
+=======
+30533,0,31.739639500000003,-1.49774137,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 30535,1293,34.36570127,-2.02238772,Mara,Serengeti,97,True,gravity,user-group,pay monthly,good,insufficient,groundwater,communal standpipe,functional
 30550,0,31.62087384,-2.775698,Kagera,Biharamulo,0,True,handpump,user-group,never pay,unknown,dry,groundwater,hand pump,non functional
 30563,0,32.80609361,-2.4927372,Mwanza,Sengerema,0,True,other,user-group,never pay,good,enough,surface,communal standpipe,non functional
@@ -4153,7 +4462,11 @@
 30870,0,30.48097965,-2.61244045,Kagera,Ngara,0,False,rope pump,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
 30872,0,0.0,-2e-08,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 30884,0,30.68871493,-1.2718832,Kagera,Karagwe,0,True,gravity,other,never pay,good,enough,groundwater,communal standpipe,functional
+<<<<<<< HEAD
 30886,0,30.64954267,-2.5087823,Kagera,Ngara,0,False,gravity,commercial,pay per bucket,good,enough,groundwater,communal standpipe,non functional
+=======
+30886,0,30.64954267,-2.5087822999999996,Kagera,Ngara,0,False,gravity,commercial,pay per bucket,good,enough,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 30896,1210,33.97436207,-1.47539449,Mara,Rorya,2500,False,submersible,user-group,never pay,good,enough,surface,communal standpipe,non functional
 30903,1529,34.00908494,-1.72348087,Mara,Musoma Rural,320,False,gravity,user-group,unknown,good,enough,surface,communal standpipe,non functional
 30911,1182,33.53284072,-1.82533494,Mara,Musoma Rural,80,False,gravity,user-group,unknown,good,insufficient,surface,communal standpipe,non functional
@@ -4166,14 +4479,22 @@
 30968,0,32.98233291,-2.54375443,Mwanza,Magu,0,True,motorpump,user-group,pay per bucket,good,enough,surface,communal standpipe,functional
 30975,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,non functional
 30979,1187,33.86106226,-1.54153129,Mara,Musoma Rural,350,True,gravity,user-group,unknown,good,enough,surface,communal standpipe,non functional
+<<<<<<< HEAD
 30985,0,33.62688657,-3.1101119,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
+=======
+30985,0,33.62688657,-3.1101118999999997,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 30989,0,30.46738594,-2.66802329,Kagera,Ngara,0,False,handpump,commercial,pay per bucket,good,enough,groundwater,communal standpipe,functional
 30990,2013,35.36285227,-1.9583084,Arusha,Ngorongoro,225,False,gravity,parastatal,never pay,good,seasonal,surface,communal standpipe,non functional
 30992,0,33.23890383,-2.52775332,Mwanza,Magu,0,True,other,user-group,never pay,salty,insufficient,groundwater,hand pump,non functional
 30993,0,31.53724575,-1.78786832,Kagera,Muleba,0,True,submersible,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 31000,0,0.0,-2e-08,Mwanza,Geita,0,True,gravity,user-group,pay per bucket,good,insufficient,groundwater,communal standpipe,functional
 31003,0,31.55370877,-1.63235454,Kagera,Muleba,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+<<<<<<< HEAD
 31004,1857,35.51008179999999,-2.31911115,Arusha,Ngorongoro,110,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
+=======
+31004,1857,35.510081799999995,-2.31911115,Arusha,Ngorongoro,110,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 31011,0,33.08714861,-2.41489207,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 31022,1342,34.57477417,-1.6448748,Mara,Serengeti,100,True,gravity,user-group,unknown,good,enough,groundwater,communal standpipe,non functional
 31029,1160,33.07085334,-2.09827812,Mwanza,Ukerewe,242,True,gravity,other,unknown,good,insufficient,surface,communal standpipe,functional
@@ -4365,7 +4686,11 @@
 32309,0,31.62701721,-3.00170787,Kagera,Chato,0,True,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
 32315,0,0.0,-2e-08,Mwanza,Magu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 32329,0,30.79105381,-1.40883587,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
+<<<<<<< HEAD
 32351,1182,33.45905682,-2.0763489,Mara,Bunda,250,True,gravity,user-group,never pay,good,enough,surface,communal standpipe,non functional
+=======
+32351,1182,33.45905682,-2.0763488999999997,Mara,Bunda,250,True,gravity,user-group,never pay,good,enough,surface,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 32352,0,34.12174095,-3.09292528,Shinyanga,Maswa,0,False,handpump,user-group,other,good,enough,groundwater,hand pump,functional
 32363,0,32.30693061,-2.43683084,Mwanza,Sengerema,0,True,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
 32365,1297,34.01455736,-3.04329293,Shinyanga,Bariadi,500,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -4431,7 +4756,11 @@
 32798,1242,34.49704434,-1.54100169,Mara,Serengeti,830,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 32800,0,0.0,-2e-08,Mwanza,Geita,0,True,other,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
 32805,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 32813,0,33.47965488,-2.8119518,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+=======
+32813,0,33.47965488,-2.8119517999999997,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 32825,0,33.536966,-2.84611767,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,seasonal,groundwater,hand pump,functional
 32829,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
 32833,0,30.6064255,-2.4838855,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
@@ -4611,7 +4940,11 @@
 34260,0,31.11261619,-1.56151801,Kagera,Karagwe,0,True,gravity,other,never pay,unknown,unknown,groundwater,communal standpipe,non functional
 34271,0,33.45618355,-3.02304132,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 34272,0,33.04084829,-2.38271734,Mwanza,Missungwi,0,True,handpump,user-group,pay monthly,salty,enough,groundwater,hand pump,non functional
+<<<<<<< HEAD
 34276,0,31.5239708,-1.38281021,Kagera,Bukoba Rural,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+=======
+34276,0,31.523970799999997,-1.38281021,Kagera,Bukoba Rural,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 34282,0,30.64619184,-2.44837059,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 34285,0,33.43546391,-2.87057889,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 34302,0,32.59362598,-3.71909292,Shinyanga,Kahama,0,True,handpump,user-group,unknown,milky,seasonal,groundwater,hand pump,non functional
@@ -4664,9 +4997,15 @@
 34647,1290,32.99787276,-2.0726322,Mwanza,Ukerewe,400,True,other,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
 34653,0,33.88184113,-3.17594843,Shinyanga,Maswa,0,False,gravity,user-group,pay monthly,good,enough,surface,communal standpipe,non functional
 34656,0,33.10450197,-2.43044385,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
+<<<<<<< HEAD
 34659,0,33.71098896,-2.6968013,Mwanza,Magu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 34662,0,31.17465846,-1.58169261,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
 34721,0,33.1411974,-2.843128,Mwanza,Missungwi,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+=======
+34659,0,33.71098896,-2.6968012999999997,Mwanza,Magu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+34662,0,31.17465846,-1.58169261,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
+34721,0,33.141197399999996,-2.843128,Mwanza,Missungwi,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 34722,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 34746,0,33.77423453,-3.17799146,Shinyanga,Maswa,0,False,gravity,commercial,pay per bucket,good,enough,surface,communal standpipe,non functional
 34755,0,31.54599684,-1.55759409,Kagera,Bukoba Rural,0,True,gravity,user-group,pay monthly,good,enough,surface,communal standpipe,functional
@@ -4802,7 +5141,11 @@
 35675,1369,34.39162519,-1.77837389,Mara,Serengeti,400,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,functional
 35691,0,31.53453982,-1.80270645,Kagera,Muleba,0,True,submersible,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 35693,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
+<<<<<<< HEAD
 35696,0,30.7407338,-2.46097231,Kagera,Ngara,0,False,handpump,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
+=======
+35696,0,30.740733799999997,-2.46097231,Kagera,Ngara,0,False,handpump,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 35701,0,32.5513524,-3.65054926,Shinyanga,Kahama,0,True,handpump,user-group,unknown,milky,seasonal,groundwater,hand pump,functional
 35738,1219,33.49733247,-2.12234919,Mara,Bunda,250,True,gravity,user-group,pay per bucket,good,enough,surface,communal standpipe,non functional
 35741,0,33.48015939,-3.01551213,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -4853,7 +5196,11 @@
 36077,1572,34.63289537,-1.87371992,Mara,Serengeti,600,True,handpump,user-group,unknown,good,insufficient,groundwater,hand pump,functional
 36086,0,33.45878478,-2.72843596,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 36094,0,33.53138718,-2.97330601,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
+<<<<<<< HEAD
 36102,0,30.612162100000006,-2.48770416,Kagera,Ngara,0,False,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
+=======
+36102,0,30.612162100000003,-2.48770416,Kagera,Ngara,0,False,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 36109,1146,33.02373599,-1.87435724,Mwanza,Ukerewe,600,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 36116,0,30.62364257,-2.44837121,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
 36119,0,31.15675813,-1.45067756,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
@@ -4878,7 +5225,11 @@
 36217,0,0.0,-2e-08,Mwanza,Geita,0,True,submersible,user-group,unknown,unknown,dry,surface,communal standpipe,non functional
 36234,0,31.15972387,-1.75805143,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
 36244,0,31.29434857,-2.58695748,Kagera,Biharamulo,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
+<<<<<<< HEAD
 36251,0,30.6964699,-1.26393866,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
+=======
+36251,0,30.696469899999997,-1.26393866,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 36258,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,salty,enough,groundwater,hand pump,non functional
 36278,0,30.47083165,-2.62400346,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 36288,1438,34.03505254,-1.90213499,Mara,Bunda,280,True,gravity,user-group,pay per bucket,good,enough,groundwater,communal standpipe,functional
@@ -5017,7 +5368,11 @@
 37274,0,33.46244534,-2.90262532,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 37275,0,0.0,-2e-08,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 37277,0,31.14840793,-1.45043183,Kagera,Karagwe,0,True,gravity,other,never pay,good,seasonal,surface,communal standpipe,functional
+<<<<<<< HEAD
 37294,0,31.737205300000007,-2.96250488,Kagera,Chato,0,True,handpump,user-group,pay per bucket,good,enough,groundwater,hand pump,functional
+=======
+37294,0,31.737205300000003,-2.96250488,Kagera,Chato,0,True,handpump,user-group,pay per bucket,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 37295,0,30.99360416,-1.72156568,Kagera,Karagwe,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 37303,0,0.0,-2e-08,Mwanza,Geita,0,True,submersible,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
 37307,0,31.43560708,-1.25795091,Kagera,Misenyi,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
@@ -5084,7 +5439,11 @@
 37860,1187,34.09750075,-1.42745076,Mara,Rorya,1500,False,gravity,user-group,unknown,good,enough,surface,communal standpipe,functional
 37864,1215,33.79313842,-1.71494721,Mara,Musoma Rural,320,True,gravity,user-group,unknown,good,enough,surface,communal standpipe,non functional
 37873,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 37880,1616,34.67363208,-1.8362059,Mara,Serengeti,400,True,submersible,commercial,pay per bucket,good,insufficient,surface,communal standpipe,functional
+=======
+37880,1616,34.67363208,-1.8362058999999995,Mara,Serengeti,400,True,submersible,commercial,pay per bucket,good,insufficient,surface,communal standpipe,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 37884,0,33.08287226,-3.0065419,Mwanza,Missungwi,0,True,motorpump,user-group,never pay,good,insufficient,groundwater,communal standpipe,functional
 37896,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,salty,enough,groundwater,hand pump,functional
 37902,0,30.51161169,-2.51402147,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
@@ -5145,11 +5504,19 @@
 38287,0,31.81346615,-1.29991863,Kagera,Bukoba Urban,0,False,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
 38294,0,32.80649437,-2.49925341,Mwanza,Sengerema,0,True,handpump,user-group,never pay,salty,insufficient,groundwater,hand pump,functional
 38299,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,pay when scheme fails,good,insufficient,groundwater,hand pump,non functional
+<<<<<<< HEAD
 38301,0,33.35898483,-2.8459028,Mwanza,Ilemela,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 38303,0,34.13141389,-3.02823336,Shinyanga,Meatu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 38311,0,33.36862144,-3.18459177,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 38317,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,other,user-group,never pay,good,enough,groundwater,hand pump,functional
 38318,1305,34.02864483,-3.0418139,Shinyanga,Bariadi,500,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
+=======
+38301,0,33.35898483,-2.8459027999999997,Mwanza,Ilemela,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+38303,0,34.13141389,-3.02823336,Shinyanga,Meatu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+38311,0,33.36862144,-3.18459177,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+38317,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,other,user-group,never pay,good,enough,groundwater,hand pump,functional
+38318,1305,34.02864483,-3.0418138999999997,Shinyanga,Bariadi,500,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 38340,1392,34.40437259,-1.72688373,Mara,Serengeti,1903,True,handpump,user-group,other,salty,enough,groundwater,hand pump,non functional
 38341,1996,35.36238156,-1.9581862,Arusha,Ngorongoro,225,False,gravity,parastatal,never pay,good,seasonal,surface,communal standpipe,functional
 38346,1171,32.92488627,-2.46524583,Mwanza,Ilemela,1200,True,handpump,user-group,never pay,salty,insufficient,groundwater,hand pump,non functional
@@ -5220,7 +5587,11 @@
 38952,0,31.17698618,-1.52372897,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
 38956,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,parastatal,never pay,good,enough,groundwater,hand pump,non functional
 38989,0,33.43253046,-2.60599455,Mwanza,Magu,0,True,motorpump,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+<<<<<<< HEAD
 39007,0,31.7539324,-1.3004351,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+=======
+39007,0,31.753932399999997,-1.3004351,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 39009,0,0.0,-2e-08,Mwanza,Magu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 39016,0,31.54831691,-1.64556716,Kagera,Muleba,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 39020,0,30.87948205,-1.52980827,Kagera,Karagwe,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -5237,7 +5608,11 @@
 39100,0,0.0,-2e-08,Mwanza,Geita,0,True,gravity,user-group,pay per bucket,good,insufficient,groundwater,communal standpipe,functional
 39103,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,pay when scheme fails,good,enough,groundwater,hand pump,non functional
 39109,1250,33.84501256,-1.81082958,Mara,Musoma Rural,250,True,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 39116,0,30.7850024,-2.53596442,Kagera,Ngara,0,False,gravity,user-group,pay monthly,good,enough,groundwater,communal standpipe,non functional
+=======
+39116,0,30.785002399999996,-2.53596442,Kagera,Ngara,0,False,gravity,user-group,pay monthly,good,enough,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 39122,0,0.0,-2e-08,Mwanza,Magu,0,True,motorpump,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 39126,0,33.64525432,-2.70023203,Mwanza,Magu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 39127,0,32.70398759,-2.54017469,Mwanza,Sengerema,0,True,other,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -5266,7 +5641,11 @@
 39349,0,0.0,-2e-08,Mwanza,Magu,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
 39356,0,0.0,-2e-08,Mwanza,Geita,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 39367,0,33.39734932,-3.10098946,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 39373,0,33.57184454,-2.8185883,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,seasonal,groundwater,hand pump,functional
+=======
+39373,0,33.57184454,-2.8185882999999996,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,seasonal,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 39375,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,gravity,parastatal,never pay,good,seasonal,surface,communal standpipe,functional
 39378,0,31.85245582,-2.86624229,Kagera,Chato,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 39400,1623,34.43958652,-1.34846798,Mara,Tarime,250,False,handpump,commercial,unknown,good,enough,groundwater,hand pump,functional
@@ -5284,7 +5663,11 @@
 39484,0,30.62877164,-2.52319932,Kagera,Ngara,0,False,gravity,commercial,never pay,good,enough,groundwater,communal standpipe,functional
 39487,0,31.46008748,-1.55381313,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,functional
 39490,1594,34.68167119,-1.82838933,Mara,Serengeti,400,True,handpump,commercial,never pay,good,insufficient,groundwater,hand pump,non functional
+<<<<<<< HEAD
 39495,0,31.4545682,-2.64347173,Kagera,Chato,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+=======
+39495,0,31.454568199999997,-2.64347173,Kagera,Chato,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 39506,0,34.09063777,-3.09180194,Shinyanga,Maswa,0,False,handpump,user-group,other,good,enough,groundwater,communal standpipe,functional
 39509,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 39517,0,33.31086911,-2.81356927,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,seasonal,groundwater,hand pump,functional
@@ -5333,12 +5716,20 @@
 39849,0,0.0,-2e-08,Mwanza,Magu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 39856,0,32.85929305,-2.72615404,Mwanza,Sengerema,0,True,motorpump,user-group,never pay,good,enough,surface,communal standpipe,functional
 39859,0,33.37691582,-3.18821517,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+<<<<<<< HEAD
 39860,0,31.5902579,-1.83522495,Kagera,Muleba,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+=======
+39860,0,31.590257899999997,-1.83522495,Kagera,Muleba,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 39877,0,31.84270302,-2.93115256,Kagera,Chato,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 39919,0,32.68636281,-2.50709738,Mwanza,Sengerema,0,True,other,user-group,pay per bucket,good,enough,surface,communal standpipe,non functional
 39920,0,31.58726859,-2.71029338,Kagera,Chato,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 39921,0,30.60593256,-2.51827579,Kagera,Ngara,0,False,handpump,user-group,never pay,unknown,dry,groundwater,hand pump,non functional
+<<<<<<< HEAD
 39929,1184,33.7948615,-1.87695171,Mara,Bunda,1500,True,submersible,user-group,pay monthly,salty,enough,groundwater,communal standpipe,non functional
+=======
+39929,1184,33.794861499999996,-1.87695171,Mara,Bunda,1500,True,submersible,user-group,pay monthly,salty,enough,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 39931,0,34.3687792,-3.03815052,Shinyanga,Meatu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 39933,0,33.10744467,-3.22875522,Mwanza,Kwimba,0,True,submersible,user-group,pay per bucket,good,enough,surface,communal standpipe,functional
 39943,0,34.1529364,-3.09602673,Shinyanga,Meatu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
@@ -5359,7 +5750,11 @@
 40023,0,32.18365647,-2.40755549,Mwanza,Sengerema,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 40026,0,31.11739788,-1.34804706,Kagera,Karagwe,0,True,submersible,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
 40032,0,0.0,-2e-08,Mwanza,Geita,0,True,other,user-group,never pay,good,insufficient,surface,communal standpipe,functional
+<<<<<<< HEAD
 40044,0,31.1287376,-1.40518165,Kagera,Karagwe,0,True,gravity,other,never pay,good,seasonal,surface,communal standpipe,functional
+=======
+40044,0,31.128737599999997,-1.40518165,Kagera,Karagwe,0,True,gravity,other,never pay,good,seasonal,surface,communal standpipe,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 40045,0,30.66743853,-2.53493253,Kagera,Ngara,0,False,gravity,user-group,never pay,good,seasonal,groundwater,communal standpipe,non functional
 40055,0,33.08105254,-2.41391863,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 40056,0,33.05382002,-2.55716195,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -5455,7 +5850,11 @@
 40788,0,32.98361925,-2.55541471,Mwanza,Magu,0,True,motorpump,user-group,pay per bucket,good,enough,surface,communal standpipe,functional
 40790,0,33.57016913,-3.23934066,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 40796,0,30.71909262,-1.28921707,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+<<<<<<< HEAD
 40800,0,32.9356467,-2.4172725,Mwanza,Magu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
+=======
+40800,0,32.9356467,-2.4172724999999997,Mwanza,Magu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 40828,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
 40835,0,33.56265666,-2.87758028,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 40840,1340,33.98870477,-1.94488283,Mara,Bunda,300,True,handpump,user-group,unknown,salty,enough,groundwater,hand pump,functional
@@ -5481,7 +5880,11 @@
 40959,0,0.0,-2e-08,Mwanza,Geita,0,True,handpump,user-group,never pay,unknown,dry,groundwater,hand pump,non functional
 40962,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,salty,enough,groundwater,hand pump,functional
 40972,0,30.51528854,-2.52942685,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
+<<<<<<< HEAD
 40975,0,31.681040000000007,-1.18087318,Kagera,Misenyi,0,True,motorpump,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+=======
+40975,0,31.681040000000003,-1.18087318,Kagera,Misenyi,0,True,motorpump,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 40976,1199,33.88617557,-1.25171373,Mara,Rorya,300,False,submersible,user-group,unknown,good,enough,surface,communal standpipe,non functional
 40989,0,33.43878116,-2.96703029,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 40992,0,30.71783767,-1.34278508,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
@@ -5532,7 +5935,11 @@
 41243,0,33.09034738,-2.47608377,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 41254,0,31.48775766,-1.45882542,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,enough,surface,communal standpipe,functional
 41268,0,32.62367097,-3.62012956,Shinyanga,Kahama,0,True,handpump,user-group,unknown,milky,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 41280,1145,33.11752628,-2.0495404,Mwanza,Ukerewe,250,True,handpump,unknown,pay monthly,good,insufficient,groundwater,hand pump,functional
+=======
+41280,1145,33.11752628,-2.0495403999999997,Mwanza,Ukerewe,250,True,handpump,unknown,pay monthly,good,insufficient,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 41283,0,33.01728003,-2.73225966,Mwanza,Missungwi,0,True,handpump,user-group,never pay,milky,enough,groundwater,hand pump,non functional
 41308,1246,34.28883078,-1.62521319,Mara,Serengeti,1000,True,rope pump,other,never pay,salty,enough,groundwater,hand pump,functional
 41311,0,32.54011226,-3.75027925,Shinyanga,Kahama,0,True,handpump,user-group,unknown,milky,enough,groundwater,hand pump,functional
@@ -5547,7 +5954,11 @@
 41368,1603,34.54304108,-1.35488852,Mara,Tarime,150,True,submersible,user-group,pay per bucket,good,enough,surface,communal standpipe,functional
 41380,0,32.61365762,-3.83197125,Shinyanga,Kahama,0,True,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
 41386,1257,33.83482414,-1.81527612,Mara,Musoma Rural,250,True,handpump,user-group,unknown,good,enough,groundwater,hand pump,non functional
+<<<<<<< HEAD
 41390,0,33.05204993,-2.4853198,Mwanza,Magu,0,True,handpump,user-group,never pay,good,dry,surface,hand pump,functional
+=======
+41390,0,33.05204993,-2.4853197999999996,Mwanza,Magu,0,True,handpump,user-group,never pay,good,dry,surface,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 41417,0,32.35348928,-2.50854598,Mwanza,Sengerema,0,True,handpump,user-group,never pay,salty,enough,groundwater,hand pump,non functional
 41428,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,milky,enough,groundwater,hand pump,functional
 41429,1443,34.05807185,-1.91832214,Mara,Bunda,250,False,handpump,user-group,pay when scheme fails,salty,insufficient,groundwater,hand pump,non functional
@@ -5568,7 +5979,11 @@
 41543,0,30.74279672,-2.47740358,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
 41547,0,32.67331914,-2.56574217,Mwanza,Sengerema,0,True,other,user-group,never pay,good,seasonal,groundwater,hand pump,functional
 41551,0,33.32663886,-3.02779881,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 41569,1151,33.4072219,-2.15035402,Mara,Bunda,300,False,handpump,user-group,unknown,good,insufficient,groundwater,hand pump,functional
+=======
+41569,1151,33.407221899999996,-2.15035402,Mara,Bunda,300,False,handpump,user-group,unknown,good,insufficient,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 41570,0,33.6298165,-2.58139171,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 41576,1358,34.14204574,-2.91033661,Shinyanga,Bariadi,500,False,handpump,user-group,other,good,insufficient,groundwater,hand pump,non functional
 41616,0,33.53385171,-2.80200013,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
@@ -5580,9 +5995,15 @@
 41640,0,30.60163519,-2.48700838,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 41646,0,31.68392501,-2.9893249,Kagera,Chato,0,True,handpump,user-group,pay annually,good,insufficient,groundwater,hand pump,non functional
 41649,0,33.41337041,-2.7534023,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 41650,1271,34.29457410000001,-1.68466587,Mara,Serengeti,60,True,rope pump,other,never pay,good,insufficient,groundwater,hand pump,functional
 41655,0,33.42701542,-2.59288064,Mwanza,Magu,0,True,gravity,user-group,never pay,good,seasonal,surface,communal standpipe,functional
 41683,0,33.41572410000001,-3.18240856,Mwanza,Kwimba,0,True,gravity,user-group,never pay,good,enough,surface,communal standpipe,functional
+=======
+41650,1271,34.294574100000006,-1.68466587,Mara,Serengeti,60,True,rope pump,other,never pay,good,insufficient,groundwater,hand pump,functional
+41655,0,33.42701542,-2.59288064,Mwanza,Magu,0,True,gravity,user-group,never pay,good,seasonal,surface,communal standpipe,functional
+41683,0,33.415724100000006,-3.18240856,Mwanza,Kwimba,0,True,gravity,user-group,never pay,good,enough,surface,communal standpipe,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 41689,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,unknown,unknown,good,enough,groundwater,hand pump,functional
 41698,1202,34.021889,-2.03464005,Mara,Bunda,450,True,gravity,user-group,unknown,unknown,unknown,groundwater,communal standpipe,non functional
 41709,1227,34.07573254,-1.32129147,Mara,Rorya,860,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
@@ -5637,10 +6058,17 @@
 42006,1672,34.523252500000005,-1.27909609,Mara,Tarime,1,False,handpump,commercial,pay per bucket,good,enough,groundwater,hand pump,functional
 42021,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 42046,0,31.54569767,-1.79581872,Kagera,Muleba,0,True,submersible,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+<<<<<<< HEAD
 42048,0,30.549078700000006,-2.53428231,Kagera,Ngara,0,False,handpump,user-group,pay per bucket,good,dry,groundwater,communal standpipe,non functional
 42061,0,31.55397412,-1.54141028,Kagera,Bukoba Rural,0,True,gravity,user-group,pay monthly,good,enough,surface,communal standpipe,non functional
 42067,1351,34.00800794,-1.78904013,Mara,Musoma Rural,320,True,gravity,user-group,unknown,good,enough,surface,communal standpipe,non functional
 42073,0,31.659982300000006,-2.97415841,Kagera,Chato,0,True,handpump,user-group,pay per bucket,good,enough,groundwater,hand pump,functional
+=======
+42048,0,30.549078700000003,-2.53428231,Kagera,Ngara,0,False,handpump,user-group,pay per bucket,good,dry,groundwater,communal standpipe,non functional
+42061,0,31.55397412,-1.54141028,Kagera,Bukoba Rural,0,True,gravity,user-group,pay monthly,good,enough,surface,communal standpipe,non functional
+42067,1351,34.00800794,-1.78904013,Mara,Musoma Rural,320,True,gravity,user-group,unknown,good,enough,surface,communal standpipe,non functional
+42073,0,31.659982300000003,-2.97415841,Kagera,Chato,0,True,handpump,user-group,pay per bucket,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 42074,0,31.75110125,-1.05769299,Kagera,Misenyi,0,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
 42088,1320,34.2763392,-1.32614236,Mara,Tarime,50,False,handpump,unknown,unknown,salty,enough,groundwater,hand pump,functional
 42091,1224,34.59291189,-1.60088152,Mara,Serengeti,150,True,handpump,user-group,unknown,salty,enough,groundwater,hand pump,functional
@@ -5669,7 +6097,11 @@
 42253,0,32.19194143,-2.35418864,Mwanza,Sengerema,0,True,handpump,user-group,never pay,good,seasonal,groundwater,hand pump,functional
 42254,0,30.58732971,-2.55894467,Kagera,Ngara,0,False,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
 42262,0,31.84390525,-1.24484134,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+<<<<<<< HEAD
 42265,0,31.6647545,-1.83328012,Kagera,Muleba,0,True,submersible,user-group,never pay,good,enough,groundwater,communal standpipe,functional
+=======
+42265,0,31.664754499999997,-1.83328012,Kagera,Muleba,0,True,submersible,user-group,never pay,good,enough,groundwater,communal standpipe,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 42271,0,31.439631,-1.47258998,Kagera,Bukoba Rural,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 42272,0,34.36891835,-3.03629883,Shinyanga,Meatu,0,True,handpump,parastatal,never pay,good,insufficient,groundwater,hand pump,functional
 42278,1268,33.77722024,-1.93397184,Mara,Bunda,150,False,handpump,parastatal,unknown,salty,enough,groundwater,hand pump,functional
@@ -5729,7 +6161,11 @@
 42650,0,0.0,-2e-08,Mwanza,Geita,0,True,submersible,user-group,unknown,unknown,dry,surface,communal standpipe,non functional
 42666,0,31.59062212,-1.49104753,Kagera,Bukoba Rural,0,True,gravity,user-group,pay monthly,good,enough,surface,communal standpipe,non functional
 42670,0,31.63258106,-1.12546885,Kagera,Ngara,0,False,gravity,user-group,pay per bucket,good,enough,groundwater,communal standpipe,functional
+<<<<<<< HEAD
 42671,0,33.3936605,-2.95154895,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+=======
+42671,0,33.393660499999996,-2.95154895,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 42679,0,31.40214051,-1.40937167,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
 42691,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,pay when scheme fails,salty,enough,groundwater,hand pump,non functional
 42694,0,32.11878365,-2.41235182,Mwanza,Sengerema,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
@@ -5753,7 +6189,11 @@
 42779,0,34.18255721,-3.13538417,Shinyanga,Meatu,0,True,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
 42787,1225,33.49671654,-2.11833506,Mara,Bunda,500,True,handpump,user-group,pay monthly,good,enough,groundwater,hand pump,functional
 42789,0,30.9969248,-1.7547798,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
+<<<<<<< HEAD
 42796,0,31.72241159,-2.4337238,Kagera,Chato,0,True,handpump,user-group,pay monthly,good,enough,groundwater,hand pump,functional
+=======
+42796,0,31.72241159,-2.4337237999999997,Kagera,Chato,0,True,handpump,user-group,pay monthly,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 42810,1253,33.86152085,-1.75645894,Mara,Musoma Rural,250,True,handpump,user-group,unknown,salty,enough,groundwater,hand pump,non functional
 42812,1192,32.91717305,-1.93293506,Mwanza,Ukerewe,1000,True,other,other,never pay,good,insufficient,surface,communal standpipe,functional
 42813,0,32.15215642,-2.44156066,Mwanza,Sengerema,0,True,handpump,user-group,never pay,good,dry,groundwater,hand pump,functional
@@ -5783,7 +6223,11 @@
 42951,0,32.51682242,-2.48518363,Mwanza,Sengerema,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 42978,0,34.18206021,-3.02924163,Shinyanga,Meatu,0,True,handpump,user-group,never pay,salty,insufficient,groundwater,hand pump,functional
 42980,1270,33.01015403,-2.0442235,Mwanza,Ukerewe,450,True,other,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+<<<<<<< HEAD
 42982,0,33.2898263,-2.9839551,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+=======
+42982,0,33.2898263,-2.9839550999999997,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 42988,0,33.34643944,-2.86005322,Mwanza,Ilemela,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 42991,0,33.67151411,-3.11971578,Shinyanga,Maswa,0,False,handpump,user-group,other,good,enough,groundwater,hand pump,non functional
 42995,0,30.82423602,-2.5031894,Kagera,Ngara,0,False,rope pump,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
@@ -6086,7 +6530,11 @@
 45108,1154,33.39986057,-2.15807103,Mara,Bunda,400,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 45110,0,31.43762596,-1.47723148,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,functional
 45130,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 45143,1232,33.49547501,-2.1196084,Mara,Bunda,250,True,gravity,user-group,pay per bucket,good,enough,surface,communal standpipe,non functional
+=======
+45143,1232,33.49547501,-2.1196083999999997,Mara,Bunda,250,True,gravity,user-group,pay per bucket,good,enough,surface,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 45155,0,31.46191725,-1.56374928,Kagera,Bukoba Rural,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 45159,0,30.67998043,-1.28085683,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
 45161,1214,34.000027200000005,-2.03783974,Mara,Bunda,30,False,gravity,parastatal,unknown,good,seasonal,surface,communal standpipe,functional
@@ -6118,7 +6566,11 @@
 45410,0,31.54324524,-1.56343072,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,enough,surface,communal standpipe,non functional
 45417,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,other,good,enough,groundwater,hand pump,non functional
 45418,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,good,insufficient,groundwater,hand pump,functional
+<<<<<<< HEAD
 45419,0,31.506097,-1.941855,Kagera,Muleba,0,True,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
+=======
+45419,0,31.506096999999997,-1.941855,Kagera,Muleba,0,True,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 45424,0,33.66694659,-3.20440415,Shinyanga,Maswa,0,False,gravity,user-group,never pay,good,dry,surface,communal standpipe,non functional
 45436,0,0.0,-2e-08,Mwanza,Magu,0,True,handpump,user-group,never pay,good,insufficient,surface,hand pump,functional
 45446,1359,34.57137279,-1.64534591,Mara,Serengeti,100,True,gravity,user-group,unknown,good,enough,groundwater,communal standpipe,non functional
@@ -6154,7 +6606,11 @@
 45654,0,33.39570021,-2.58306994,Mwanza,Magu,0,True,motorpump,user-group,pay per bucket,good,enough,groundwater,communal standpipe,non functional
 45655,1145,33.59774453,-1.99904401,Mara,Musoma Rural,733,False,gravity,parastatal,unknown,good,insufficient,surface,communal standpipe,non functional
 45658,0,31.74110893,-2.91942655,Kagera,Chato,0,True,handpump,user-group,pay per bucket,good,insufficient,groundwater,hand pump,functional
+<<<<<<< HEAD
 45669,0,31.1574889,-1.38903357,Kagera,Karagwe,0,True,gravity,other,pay annually,good,enough,surface,communal standpipe,non functional
+=======
+45669,0,31.157488899999997,-1.38903357,Kagera,Karagwe,0,True,gravity,other,pay annually,good,enough,surface,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 45678,0,31.69768936,-2.78281746,Kagera,Biharamulo,0,True,handpump,user-group,pay monthly,good,seasonal,groundwater,hand pump,non functional
 45688,0,33.578379299999995,-3.13362051,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
 45705,0,31.56486584,-1.52426867,Kagera,Bukoba Rural,0,True,gravity,user-group,pay monthly,good,enough,surface,communal standpipe,non functional
@@ -6173,7 +6629,11 @@
 45828,0,31.62427838,-1.740375,Kagera,Muleba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 45830,0,31.46003527,-1.17836153,Kagera,Misenyi,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 45836,0,30.91430427,-1.19931918,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
+<<<<<<< HEAD
 45837,0,33.25055614,-2.5636708,Mwanza,Magu,0,True,handpump,user-group,pay monthly,salty,enough,groundwater,hand pump,non functional
+=======
+45837,0,33.25055614,-2.5636707999999997,Mwanza,Magu,0,True,handpump,user-group,pay monthly,salty,enough,groundwater,hand pump,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 45845,0,32.9956561,-2.68064233,Mwanza,Missungwi,0,True,motorpump,user-group,pay per bucket,good,enough,groundwater,communal standpipe,functional
 45846,0,33.52196001,-2.98998075,Mwanza,Kwimba,0,True,submersible,user-group,pay monthly,good,enough,surface,communal standpipe,functional
 45851,1241,32.98856004,-2.48937845,Mwanza,Ilemela,2000,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
@@ -6309,7 +6769,11 @@
 46683,0,33.69809639,-2.98071211,Shinyanga,Maswa,0,False,handpump,user-group,pay when scheme fails,good,seasonal,groundwater,hand pump,functional
 46693,0,30.84142909,-2.47758483,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
 46695,0,34.36910506,-2.98123696,Shinyanga,Meatu,0,False,handpump,parastatal,never pay,unknown,dry,groundwater,hand pump,non functional
+<<<<<<< HEAD
 46706,0,34.24308913,-3.0184044,Shinyanga,Meatu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+=======
+46706,0,34.24308913,-3.0184043999999997,Shinyanga,Meatu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 46731,0,31.48535156,-1.40247696,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
 46757,1405,34.68251816,-2.14213249,Mara,Serengeti,200,True,motorpump,user-group,never pay,salty,insufficient,groundwater,communal standpipe,non functional
 46759,0,33.38843028,-3.11337219,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
@@ -6393,7 +6857,11 @@
 47367,0,31.59913227,-1.38485729,Kagera,Bukoba Rural,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 47368,0,33.21557592,-2.71984653,Mwanza,Kwimba,0,True,motorpump,user-group,pay per bucket,good,enough,groundwater,communal standpipe,functional
 47371,0,34.36575406,-3.01437942,Shinyanga,Meatu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 47383,0,32.7519642,-2.69904171,Mwanza,Sengerema,0,True,gravity,user-group,never pay,salty,enough,groundwater,hand pump,non functional
+=======
+47383,0,32.751964199999996,-2.69904171,Mwanza,Sengerema,0,True,gravity,user-group,never pay,salty,enough,groundwater,hand pump,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 47397,1271,33.66661822,-1.86003496,Mara,Musoma Rural,250,True,handpump,user-group,pay when scheme fails,good,insufficient,groundwater,hand pump,non functional
 47414,0,32.97335219,-2.55043231,Mwanza,Magu,0,True,motorpump,user-group,pay per bucket,good,enough,surface,communal standpipe,functional
 47440,0,30.95781397,-1.35954945,Kagera,Karagwe,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -6405,7 +6873,11 @@
 47483,0,33.36331537,-3.00672357,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
 47490,0,31.58780546,-1.4180961,Kagera,Bukoba Rural,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 47493,1666,34.55680235,-1.35443695,Mara,Tarime,700,True,submersible,user-group,pay per bucket,good,enough,surface,communal standpipe,functional
+<<<<<<< HEAD
 47501,0,30.4605687,-2.80739844,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+=======
+47501,0,30.460568699999996,-2.80739844,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 47502,0,32.95559625,-3.37704659,Shinyanga,Shinyanga Rural,0,True,handpump,user-group,never pay,salty,enough,groundwater,hand pump,functional
 47506,1332,34.51116262,-1.72913334,Mara,Serengeti,700,True,gravity,user-group,unknown,good,enough,groundwater,communal standpipe,functional
 47519,0,33.42015191,-2.79507066,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -6429,7 +6901,11 @@
 47602,0,31.58933878,-1.84585179,Kagera,Muleba,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
 47604,1223,34.00064013,-2.03652748,Mara,Bunda,400,True,gravity,unknown,unknown,unknown,unknown,groundwater,communal standpipe,non functional
 47619,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
+<<<<<<< HEAD
 47620,0,31.8298807,-2.6163388,Kagera,Chato,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+=======
+47620,0,31.829880699999997,-2.6163388,Kagera,Chato,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 47622,0,0.0,-2e-08,Mwanza,Magu,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
 47641,0,30.71306304,-1.33574235,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 47649,0,31.16117827,-1.79004931,Kagera,Karagwe,0,True,gravity,user-group,pay annually,good,enough,groundwater,communal standpipe,functional
@@ -6509,7 +6985,11 @@
 48308,1203,33.05870112,-1.85457448,Mwanza,Ukerewe,450,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 48329,0,0.0,-2e-08,Mwanza,Magu,0,True,other,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 48354,1361,34.22635794,-2.94747187,Shinyanga,Bariadi,300,False,handpump,user-group,pay monthly,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 48384,0,30.782723,-2.38876569,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
+=======
+48384,0,30.782722999999997,-2.38876569,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 48402,0,32.91932511,-2.63553231,Mwanza,Ilemela,0,True,submersible,user-group,never pay,good,enough,groundwater,communal standpipe,functional
 48408,0,31.13399766,-1.6785558999999997,Kagera,Karagwe,0,True,gravity,user-group,pay annually,good,enough,groundwater,communal standpipe,functional
 48410,0,0.0,-2e-08,Mwanza,Magu,0,True,motorpump,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
@@ -6578,8 +7058,13 @@
 48847,0,31.73520304,-1.36389893,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,functional
 48858,0,31.35663278,-2.56507993,Kagera,Biharamulo,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 48860,0,32.82922285,-3.27065002,Shinyanga,Shinyanga Rural,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+<<<<<<< HEAD
 48878,0,31.0055811,-1.71437309,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 48884,0,30.52943613,-2.5289573,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
+=======
+48878,0,31.005581099999997,-1.71437309,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+48884,0,30.52943613,-2.5289572999999996,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 48903,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,other,salty,insufficient,groundwater,hand pump,non functional
 48914,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,other,salty,enough,groundwater,hand pump,non functional
 48918,0,0.0,-2e-08,Mwanza,Geita,0,True,submersible,user-group,unknown,unknown,dry,groundwater,communal standpipe,non functional
@@ -6604,7 +7089,11 @@
 49119,0,31.74966781,-1.4504657,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 49124,0,33.10502865,-3.35299373,Mwanza,Kwimba,0,True,other,user-group,pay annually,good,enough,groundwater,hand pump,non functional
 49127,0,31.76307907,-1.42216379,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+<<<<<<< HEAD
 49128,0,33.0789637,-2.39944061,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+=======
+49128,0,33.078963699999996,-2.39944061,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 49136,0,30.64079776,-1.27154018,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,unknown,groundwater,communal standpipe,non functional
 49140,0,31.56770606,-1.50936161,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
 49154,0,32.89302898,-2.59047131,Mwanza,Ilemela,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -6628,7 +7117,11 @@
 49277,0,30.92769417,-1.40824119,Kagera,Karagwe,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 49293,0,33.52493364,-3.26543195,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 49299,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 49321,0,31.1719622,-1.45248872,Kagera,Karagwe,0,True,gravity,user-group,pay annually,good,enough,surface,communal standpipe,functional
+=======
+49321,0,31.171962199999996,-1.45248872,Kagera,Karagwe,0,True,gravity,user-group,pay annually,good,enough,surface,communal standpipe,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 49334,0,30.99619798,-1.73654423,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
 49345,1370,34.67522796,-2.15105776,Mara,Serengeti,400,True,motorpump,user-group,never pay,salty,insufficient,groundwater,communal standpipe,functional
 49347,0,31.55483618,-1.43672931,Kagera,Bukoba Rural,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -6639,7 +7132,11 @@
 49387,0,31.73497163,-1.35913058,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 49389,0,32.95823861,-2.93339004,Mwanza,Missungwi,0,True,submersible,user-group,never pay,good,enough,surface,communal standpipe,non functional
 49409,1167,34.1141268,-1.63389066,Mara,Musoma Rural,250,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,non functional
+<<<<<<< HEAD
 49410,0,33.2657332,-2.5588758,Mwanza,Magu,0,True,handpump,user-group,pay monthly,salty,dry,groundwater,hand pump,non functional
+=======
+49410,0,33.2657332,-2.5588757999999996,Mwanza,Magu,0,True,handpump,user-group,pay monthly,salty,dry,groundwater,hand pump,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 49432,0,32.92710117,-3.41728076,Shinyanga,Shinyanga Rural,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 49434,0,0.0,-2e-08,Mwanza,Geita,0,True,handpump,user-group,pay monthly,good,insufficient,groundwater,hand pump,functional
 49443,0,33.42289065,-2.86039169,Mwanza,Kwimba,0,True,handpump,user-group,pay annually,good,enough,groundwater,hand pump,functional
@@ -6652,7 +7149,11 @@
 49500,0,33.20018049,-2.93678506,Mwanza,Missungwi,0,True,handpump,user-group,other,good,enough,groundwater,hand pump,functional
 49501,0,33.71732613,-3.18567748,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 49508,0,0.0,-2e-08,Mwanza,Magu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+<<<<<<< HEAD
 49517,0,30.6604009,-2.52146637,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+=======
+49517,0,30.660400899999996,-2.52146637,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 49529,0,34.36653474,-2.97531303,Shinyanga,Meatu,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 49530,0,33.40886629,-2.93417275,Mwanza,Kwimba,0,True,motorpump,user-group,pay per bucket,good,enough,groundwater,communal standpipe,functional
 49544,1408,34.39520512,-2.96082967,Shinyanga,Bariadi,350,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -6706,7 +7207,11 @@
 49875,0,31.45824686,-1.54806094,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,enough,surface,communal standpipe,functional
 49887,0,31.75033277,-1.31407422,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
 49891,1184,32.92946497,-1.98886169,Mwanza,Ukerewe,2000,True,other,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+<<<<<<< HEAD
 49893,0,34.0385855,-3.13255805,Shinyanga,Maswa,0,False,handpump,user-group,other,good,enough,groundwater,hand pump,functional
+=======
+49893,0,34.038585499999996,-3.13255805,Shinyanga,Maswa,0,False,handpump,user-group,other,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 49894,0,0.0,-2e-08,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 49906,0,0.0,-2e-08,Mwanza,Geita,0,True,submersible,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
 49917,0,31.02028592,-1.31090629,Kagera,Karagwe,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
@@ -6729,7 +7234,11 @@
 50047,1396,34.69604627,-2.15147784,Mara,Serengeti,400,True,motorpump,user-group,unknown,salty,insufficient,groundwater,communal standpipe,functional
 50049,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,other,salty,insufficient,groundwater,hand pump,non functional
 50053,0,34.23646066,-3.14190503,Shinyanga,Meatu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+<<<<<<< HEAD
 50076,0,31.4445589,-2.13276363,Kagera,Muleba,0,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
+=======
+50076,0,31.444558899999997,-2.13276363,Kagera,Muleba,0,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 50079,0,30.69299481,-2.65545316,Kagera,Ngara,0,False,gravity,user-group,pay per bucket,good,enough,groundwater,communal standpipe,non functional
 50107,0,0.0,-2e-08,Mwanza,Magu,0,True,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
 50111,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
@@ -6757,7 +7266,11 @@
 50337,0,31.6277946,-1.46496235,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,functional
 50339,1138,33.71441045,-1.64275734,Mara,Musoma Rural,30,False,gravity,parastatal,unknown,good,seasonal,surface,communal standpipe,functional
 50341,0,32.80190355,-3.2774279,Shinyanga,Shinyanga Rural,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+<<<<<<< HEAD
 50354,0,30.675336100000006,-1.21077253,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+=======
+50354,0,30.675336100000003,-1.21077253,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 50362,0,32.79447783,-3.26435281,Shinyanga,Shinyanga Rural,0,True,handpump,user-group,never pay,good,seasonal,groundwater,hand pump,functional
 50363,1207,34.03545093,-1.14710052,Mara,Rorya,420,False,submersible,user-group,unknown,good,enough,surface,communal standpipe,functional
 50376,1636,34.42116934,-1.37397572,Mara,Tarime,250,True,handpump,commercial,unknown,good,enough,groundwater,hand pump,functional
@@ -6809,7 +7322,11 @@
 50726,0,30.66907111,-1.06133261,Kagera,Karagwe,0,True,handpump,user-group,pay annually,good,insufficient,groundwater,hand pump,functional
 50732,1378,34.10532726,-1.20607352,Mara,Rorya,380,False,submersible,user-group,pay per bucket,good,enough,surface,communal standpipe,non functional
 50734,0,33.04045095,-2.47605402,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 50776,0,33.5137679,-3.1415058,Shinyanga,Maswa,0,False,gravity,user-group,never pay,good,seasonal,surface,communal standpipe,non functional
+=======
+50776,0,33.5137679,-3.1415057999999996,Shinyanga,Maswa,0,False,gravity,user-group,never pay,good,seasonal,surface,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 50786,0,31.54036934,-1.42470072,Kagera,Bukoba Rural,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 50794,0,32.61062015,-2.58026852,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 50795,0,31.68575487,-2.97228789,Kagera,Chato,0,True,handpump,user-group,pay per bucket,good,enough,groundwater,hand pump,functional
@@ -6894,7 +7411,11 @@
 51464,0,31.71280564,-1.21678871,Kagera,Misenyi,0,True,motorpump,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
 51477,0,0.0,-2e-08,Mwanza,Magu,0,True,handpump,user-group,never pay,salty,insufficient,groundwater,hand pump,non functional
 51478,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,gravity,parastatal,never pay,good,seasonal,surface,communal standpipe,non functional
+<<<<<<< HEAD
 51497,0,33.1597136,-2.61736785,Mwanza,Missungwi,0,True,handpump,user-group,pay when scheme fails,good,enough,groundwater,hand pump,functional
+=======
+51497,0,33.159713599999996,-2.61736785,Mwanza,Missungwi,0,True,handpump,user-group,pay when scheme fails,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 51501,0,30.73049331,-1.06356825,Kagera,Karagwe,0,True,other,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 51523,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,other,good,enough,groundwater,hand pump,functional
 51526,1229,32.9257062,-2.00032831,Mwanza,Ukerewe,1,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
@@ -7014,7 +7535,11 @@
 52419,0,0.0,-2e-08,Mwanza,Geita,0,True,submersible,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
 52421,0,30.67760682,-1.28163088,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
 52429,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,pay when scheme fails,salty,insufficient,groundwater,hand pump,non functional
+<<<<<<< HEAD
 52431,0,34.10914007,-3.0817988,Shinyanga,Maswa,0,False,handpump,user-group,other,good,enough,groundwater,hand pump,functional
+=======
+52431,0,34.10914007,-3.0817987999999996,Shinyanga,Maswa,0,False,handpump,user-group,other,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 52432,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,pay monthly,good,enough,groundwater,hand pump,functional
 52434,1422,34.39708036,-1.31727875,Mara,Tarime,120,True,handpump,unknown,unknown,good,enough,groundwater,hand pump,non functional
 52438,0,31.59424495,-1.20179464,Kagera,Misenyi,0,True,motorpump,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
@@ -7038,7 +7563,11 @@
 52591,0,0.0,-2e-08,Mwanza,Magu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 52593,0,32.81878147,-3.3477402,Shinyanga,Shinyanga Rural,0,True,handpump,user-group,never pay,good,seasonal,groundwater,hand pump,functional
 52599,0,30.94821881,-2.83775284,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
+<<<<<<< HEAD
 52616,0,31.853969300000006,-1.16023431,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+=======
+52616,0,31.853969300000003,-1.16023431,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 52618,1469,34.06419975,-1.91013156,Mara,Bunda,400,False,handpump,user-group,pay when scheme fails,salty,enough,groundwater,hand pump,functional
 52625,1163,33.31714174,-2.0708178,Mara,Bunda,1200,True,handpump,user-group,pay when scheme fails,salty,insufficient,groundwater,hand pump,non functional
 52638,0,32.79874109,-2.61326095,Mwanza,Sengerema,0,True,handpump,user-group,never pay,salty,enough,groundwater,hand pump,functional
@@ -7217,7 +7746,11 @@
 53824,0,33.22869904,-2.73813882,Mwanza,Kwimba,0,True,motorpump,user-group,never pay,good,enough,groundwater,communal standpipe,functional
 53832,0,0.0,-2e-08,Mwanza,Magu,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
 53834,0,33.4078935,-3.10818616,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 53839,0,30.6375144,-2.46080817,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+=======
+53839,0,30.637514399999997,-2.46080817,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 53841,1290,33.86236229,-1.98207412,Mara,Bunda,80,False,handpump,user-group,unknown,salty,enough,groundwater,hand pump,non functional
 53865,0,31.34562305,-2.59632047,Kagera,Biharamulo,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 53867,0,30.97509507,-1.70338613,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
@@ -7336,7 +7869,11 @@
 54799,1263,33.83521693,-1.85203063,Mara,Musoma Rural,250,True,handpump,user-group,unknown,salty,enough,groundwater,hand pump,functional
 54801,0,0.0,-2e-08,Mwanza,Geita,0,True,handpump,user-group,pay monthly,good,insufficient,groundwater,hand pump,functional
 54807,1355,34.134477600000004,-2.97081069,Shinyanga,Bariadi,500,False,handpump,user-group,never pay,salty,insufficient,groundwater,hand pump,non functional
+<<<<<<< HEAD
 54808,1170,32.96920184,-2.0848919,Mwanza,Ukerewe,200,True,other,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+=======
+54808,1170,32.96920184,-2.0848918999999997,Mwanza,Ukerewe,200,True,other,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 54825,1210,34.15783091,-1.68080534,Mara,Musoma Rural,253,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
 54828,1186,33.79546573,-1.87912139,Mara,Bunda,250,True,handpump,user-group,pay monthly,good,insufficient,groundwater,hand pump,functional
 54830,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
@@ -7459,7 +7996,11 @@
 55595,0,31.73745427,-2.62376749,Kagera,Chato,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 55608,0,31.46845403,-1.47705042,Kagera,Bukoba Rural,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 55612,0,31.66164599,-1.57608933,Kagera,Muleba,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 55613,0,30.82377007,-2.5033753,Kagera,Ngara,0,False,rope pump,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+=======
+55613,0,30.82377007,-2.5033752999999996,Kagera,Ngara,0,False,rope pump,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 55615,0,0.0,-2e-08,Mwanza,Geita,0,True,handpump,user-group,pay monthly,good,insufficient,groundwater,hand pump,functional
 55620,0,34.35041531,-3.03458249,Shinyanga,Meatu,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 55621,1572,34.51470223,-1.31984184,Mara,Tarime,750,True,handpump,unknown,pay monthly,good,insufficient,groundwater,hand pump,functional
@@ -7477,7 +8018,11 @@
 55706,1332,33.89508859,-1.78999701,Mara,Musoma Rural,250,True,handpump,user-group,unknown,good,enough,groundwater,hand pump,non functional
 55717,1306,34.01674305,-3.03763806,Shinyanga,Bariadi,500,False,gravity,parastatal,pay annually,good,seasonal,surface,communal standpipe,non functional
 55735,0,32.8384649,-2.90948616,Mwanza,Missungwi,0,True,submersible,user-group,never pay,good,enough,surface,communal standpipe,non functional
+<<<<<<< HEAD
 55738,0,31.73456591,-2.4426828,Kagera,Chato,0,True,handpump,user-group,pay monthly,good,enough,groundwater,hand pump,functional
+=======
+55738,0,31.73456591,-2.4426827999999996,Kagera,Chato,0,True,handpump,user-group,pay monthly,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 55759,0,33.5091356,-2.91733436,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 55760,1279,33.80932826,-1.60033448,Mara,Musoma Rural,185,False,gravity,parastatal,unknown,good,seasonal,surface,communal standpipe,non functional
 55774,0,32.68350111,-2.53084836,Mwanza,Sengerema,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
@@ -7515,7 +8060,11 @@
 55977,0,33.1603376,-2.9585736,Mwanza,Missungwi,0,True,handpump,user-group,never pay,colored,insufficient,groundwater,hand pump,functional
 56004,0,0.0,-2e-08,Mwanza,Geita,0,True,handpump,user-group,pay monthly,good,insufficient,groundwater,hand pump,functional
 56014,0,30.83360347,-2.52545553,Kagera,Ngara,0,False,gravity,user-group,pay per bucket,good,enough,groundwater,communal standpipe,functional
+<<<<<<< HEAD
 56022,1341,34.57523070000001,-1.64795623,Mara,Serengeti,300,True,handpump,user-group,unknown,salty,enough,groundwater,hand pump,functional
+=======
+56022,1341,34.575230700000006,-1.64795623,Mara,Serengeti,300,True,handpump,user-group,unknown,salty,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 56028,0,31.10373196,-1.72277488,Kagera,Karagwe,0,True,gravity,user-group,pay annually,good,enough,groundwater,communal standpipe,functional
 56030,0,31.02172786,-1.67121835,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
 56035,1860,35.5095354,-2.31950111,Arusha,Ngorongoro,108,True,gravity,user-group,never pay,good,insufficient,groundwater,communal standpipe,non functional
@@ -7534,7 +8083,11 @@
 56111,0,32.06203351,-2.40255082,Mwanza,Sengerema,0,True,handpump,user-group,pay monthly,good,enough,groundwater,hand pump,functional
 56121,0,0.0,-2e-08,Mwanza,Geita,0,True,gravity,user-group,never pay,good,enough,groundwater,hand pump,functional
 56123,0,33.37246611,-2.5818242,Mwanza,Magu,0,True,handpump,user-group,pay monthly,salty,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 56127,0,31.565634000000006,-1.63132017,Kagera,Muleba,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+=======
+56127,0,31.565634000000003,-1.63132017,Kagera,Muleba,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 56129,0,31.59911848,-1.83310818,Kagera,Muleba,0,True,gravity,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
 56131,0,0.0,-2e-08,Mwanza,Magu,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
 56135,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -7585,7 +8138,11 @@
 56449,0,30.69641579,-2.49052086,Kagera,Ngara,0,False,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
 56450,0,0.0,-2e-08,Mwanza,Geita,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 56453,0,31.58498821,-1.20543821,Kagera,Misenyi,0,True,motorpump,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+<<<<<<< HEAD
 56454,0,31.6330889,-2.68529503,Kagera,Chato,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+=======
+56454,0,31.633088899999997,-2.68529503,Kagera,Chato,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 56465,1190,33.90916061,-1.44734888,Mara,Rorya,250,False,submersible,user-group,never pay,good,enough,surface,communal standpipe,non functional
 56468,1143,33.21594859,-2.12311098,Mara,Bunda,360,False,handpump,user-group,pay annually,good,enough,groundwater,hand pump,functional
 56469,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -7705,7 +8262,11 @@
 57350,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,other,good,enough,groundwater,hand pump,functional
 57363,0,31.79425156,-1.40625294,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,functional
 57385,0,33.60391574,-2.97204681,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 57400,0,32.57036289,-3.6232563,Shinyanga,Kahama,0,True,handpump,user-group,unknown,milky,enough,groundwater,hand pump,functional
+=======
+57400,0,32.57036289,-3.623256299999999,Shinyanga,Kahama,0,True,handpump,user-group,unknown,milky,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 57406,1338,34.0994224,-2.88591624,Shinyanga,Bariadi,700,False,handpump,user-group,never pay,salty,insufficient,groundwater,hand pump,non functional
 57413,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,unknown,good,enough,groundwater,hand pump,functional
 57416,0,34.18881126,-3.07501495,Shinyanga,Meatu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
@@ -7834,7 +8395,11 @@
 58278,0,30.81210042,-2.53031016,Kagera,Ngara,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
 58303,1378,34.23540436,-2.96658686,Shinyanga,Bariadi,500,False,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 58306,0,33.32434277,-2.89435611,Mwanza,Ilemela,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 58319,0,30.8209552,-2.4142777,Kagera,Ngara,0,False,gravity,user-group,pay monthly,good,enough,groundwater,communal standpipe,non functional
+=======
+58319,0,30.820955199999997,-2.4142777,Kagera,Ngara,0,False,gravity,user-group,pay monthly,good,enough,groundwater,communal standpipe,non functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 58322,1261,34.29595267,-1.68289093,Mara,Serengeti,30,True,rope pump,other,unknown,good,enough,groundwater,hand pump,functional
 58326,0,34.36274699,-2.9788254000000003,Shinyanga,Meatu,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 58327,0,33.10966192,-3.22909825,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,dry,groundwater,hand pump,non functional
@@ -7864,7 +8429,11 @@
 58506,0,33.28404695,-2.87411729,Mwanza,Missungwi,0,True,handpump,user-group,pay when scheme fails,good,insufficient,groundwater,hand pump,functional
 58512,1289,33.94520732,-1.97651547,Mara,Bunda,150,False,gravity,parastatal,unknown,good,seasonal,surface,communal standpipe,non functional
 58513,1161,34.11206123,-1.64073993,Mara,Musoma Rural,300,True,handpump,user-group,unknown,salty,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 58514,0,31.3968117,-1.20673163,Kagera,Misenyi,0,True,handpump,user-group,pay monthly,good,insufficient,groundwater,hand pump,functional
+=======
+58514,0,31.396811699999997,-1.20673163,Kagera,Misenyi,0,True,handpump,user-group,pay monthly,good,insufficient,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 58517,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 58551,0,30.844910700000003,-2.51423631,Kagera,Ngara,0,False,handpump,user-group,never pay,good,dry,groundwater,communal standpipe,non functional
 58553,0,31.03385544,-1.35025281,Kagera,Karagwe,0,True,gravity,other,never pay,good,seasonal,surface,communal standpipe,functional
@@ -7873,7 +8442,11 @@
 58556,1462,34.58800041,-1.94235101,Mara,Serengeti,400,True,handpump,user-group,unknown,salty,insufficient,groundwater,hand pump,functional
 58561,0,32.96700926,-2.50658954,Mwanza,Ilemela,0,True,handpump,user-group,pay when scheme fails,good,insufficient,groundwater,hand pump,functional
 58562,1218,32.89999057,-1.99934874,Mwanza,Ukerewe,2000,True,other,user-group,never pay,good,insufficient,surface,communal standpipe,non functional
+<<<<<<< HEAD
 58568,0,31.7802112,-1.4093515,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,functional
+=======
+58568,0,31.780211199999997,-1.4093515,Kagera,Bukoba Rural,0,True,gravity,user-group,never pay,good,insufficient,surface,communal standpipe,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 58581,0,30.6464597,-1.18807938,Kagera,Karagwe,0,True,gravity,other,never pay,good,seasonal,surface,communal standpipe,functional
 58597,0,33.44023038,-2.64323631,Mwanza,Magu,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 58600,0,33.42519469,-3.20019274,Mwanza,Kwimba,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
@@ -7892,7 +8465,11 @@
 58699,1253,33.99300067,-2.03003369,Mara,Bunda,200,True,gravity,user-group,unknown,unknown,unknown,groundwater,communal standpipe,non functional
 58700,1150,33.31185219,-1.94277126,Mara,Musoma Rural,350,True,handpump,user-group,unknown,good,enough,groundwater,hand pump,non functional
 58728,0,34.11244236,-3.07990344,Shinyanga,Maswa,0,False,handpump,user-group,other,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 58733,0,30.8750362,-1.44895221,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
+=======
+58733,0,30.875036199999997,-1.44895221,Kagera,Karagwe,0,True,gravity,user-group,never pay,good,enough,groundwater,communal standpipe,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 58735,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,non functional
 58736,1460,34.04374756,-1.89822755,Mara,Bunda,1500,False,handpump,parastatal,unknown,good,enough,groundwater,hand pump,non functional
 58739,0,31.54509178,-2.66386139,Kagera,Chato,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,non functional
@@ -7947,7 +8524,11 @@
 59123,1219,33.3918444,-1.83284079,Mara,Musoma Rural,56,True,gravity,parastatal,never pay,good,insufficient,surface,communal standpipe,functional
 59135,0,0.0,-2e-08,Mwanza,Geita,0,True,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
 59137,0,33.525958,-3.06229116,Shinyanga,Maswa,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
+<<<<<<< HEAD
 59143,0,31.8536574,-2.96462866,Kagera,Chato,0,True,handpump,user-group,pay monthly,good,enough,groundwater,hand pump,functional
+=======
+59143,0,31.853657399999996,-2.96462866,Kagera,Chato,0,True,handpump,user-group,pay monthly,good,enough,groundwater,hand pump,functional
+>>>>>>> 545838695a17209333057dc8c8805e1e5d12ee6f
 59145,1596,34.74369729,-1.88575923,Mara,Serengeti,800,True,handpump,user-group,unknown,good,insufficient,groundwater,hand pump,non functional
 59147,0,31.42057251,-1.21378364,Kagera,Misenyi,0,True,handpump,user-group,never pay,good,insufficient,groundwater,hand pump,functional
 59158,0,0.0,-2e-08,Shinyanga,Bariadi,0,False,handpump,user-group,never pay,good,enough,groundwater,hand pump,functional
