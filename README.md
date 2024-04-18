@@ -67,11 +67,11 @@ All models were evaluated looking at precision values to ensure minimization of 
 
 #### Resources
 
-JUPYTER NOTEBOOK:
-
 PRESENTATION:
+https://docs.google.com/presentation/d/1qMbRH1MTgamJMOdNyQrT_w8rgeoaMjqqsWdeGsW4dLU/edit#slide=id.g2cd5781241b_3_406
 
 TABLEAU:
+https://public.tableau.com/app/profile/monica.pecha/viz/Tanzania_Well_Project/Dashboard1?publish=yes
 
-OTHER RESOURCES:
+
 
