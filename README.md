@@ -27,6 +27,23 @@ The target, well functionality, was engineered from a ternary feature to a binar
 There are limitations to this dataset and analysis. The year of construction of the well was thought to be an important factor, but due to the large volume of missing data it was not included in the analysis. This analysis focused on building new well systems based on the prediction of successful wells from existing wells. For this reason we categorized the ternary well functionality target as binary and included the functioning but in need of repair wells with the non functioning wells to ensure our. This could have led to misclassification. Regression model coefficeints were exponentiated and probabilities were calculated making for interpretable results, but without confidence intervals for these coefficients it's difficult to understand what factors are significant. 
 
 #### Data statistics and interpretation
+This project contains:
+
+Exploratory Data Analysis:
+        (1) EDA Part 1 - Initial Analysis, and
+        (2) EDA Part 2 - Statistical Analysis.
+        
+Training the Model:
+        (1) Performing Train-Test Split,
+        (2) Preprocessing,
+        (3) Baseline (Dummy) Model,
+        (4) Preliminary Model 1, and
+        (5) Preliminary Model 2.
+
+Testing the Model:
+        (1) Transforming the Test Set, and
+        (2) Modeling the Test Set.
+
 Exploratory data analysis showed differences in several features by well functionality. To better understand the features and their impact on prediction of successful wells we conducted a Decision Tree analysis to assist with feature selection for logistic regression classification models. We focused on three key features with the highest probabilities from these models.
 
 (1) There’s a 58% probability a hand pump well will be functioning.
