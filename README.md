@@ -19,7 +19,7 @@ The dataset was taken from DrivenData, supplied by Taarifa and the Tanzanian Min
 The data used for these analyses contained the following features: region, extraction_type_class, management_group, payment, quality_group, source_class, waterpoint_type_group, and the target was well functionality. Focusing on hand pumps and standpipes, there were 8330 observations with non-missing data in the Lake Victoria basin. These features were selected from the full dataset based on domain knowledge, data completeness, and exploratory data analysis. 
 
 #### Data manipulation
-The categorical features were engineered to combine similar categories within a feature, e.g., for quality_group salty, milky, colored, and fluoride were combined into an other category for a total of three categories for the feature: good, other, and unknown. ------
+The categorical features were engineered to combine similar categories within a feature, e.g., for quality_group the categories of salty, milky, colored, and fluoride were combined into an other category for a total of three categories for the feature: good, other, and unknown. The same process was repeated for extraction_type_class and payment. 
 
 The target, well functionality, was engineered from a ternary feature to a binary feature. The binary target was functional versus non-functional wells. In the ternary feature wells that were categorized as functional but in need of repair were included with the functional wells in the binary feature. 
 
@@ -55,6 +55,15 @@ Exploratory data analysis showed differences in several features by well functio
 All models were evaluated looking at precision values to ensure minimization of incorrectly predicting a functional well when in fact it was non functional or in need of repair.
 
 #### Visualizations
+
+<img width="1220" alt="well_type_by_function_status" src="https://github.com/pecham1911/Tanzania_Wells/assets/159095917/5759bcd6-dda8-463c-b246-b8b28c464133">
+
+
+<img width="1220" alt="well_energy_source_by_function_status" src="https://github.com/pecham1911/Tanzania_Wells/assets/159095917/adce4177-1165-4e28-ae2a-da1f8d89eb4f">
+
+
+<img width="1220" alt="well_management_group_by_well_status" src="https://github.com/pecham1911/Tanzania_Wells/assets/159095917/d5c8b4c3-c7ce-489f-8304-148e11221219">
+
 
 #### Resources
 
